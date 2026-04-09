@@ -1,0 +1,509 @@
+{
+  "game": "洛克王国：世界",
+  "analyzed_at": "2026-03-27T23:25:24.282564",
+  "total_items": 69,
+  "platform_stats": {
+    "taptap_reviews": {
+      "total": 9,
+      "positive": 5,
+      "negative": 2,
+      "neutral": 2,
+      "sentiment_ratio": {
+        "positive_pct": 55.6,
+        "negative_pct": 22.2
+      }
+    },
+    "bilibili": {
+      "total": 20,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 16,
+      "sentiment_ratio": {
+        "positive_pct": 15.0,
+        "negative_pct": 5.0
+      }
+    },
+    "nga": {
+      "total": 40,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 40,
+      "sentiment_ratio": {
+        "positive_pct": 0.0,
+        "negative_pct": 0.0
+      }
+    }
+  },
+  "sentiment_overview": {
+    "total": 69,
+    "positive": 8,
+    "negative": 3,
+    "neutral": 58,
+    "overall": "🟡 舆情中性，需持续观察",
+    "positive_pct": 11.6,
+    "negative_pct": 4.3
+  },
+  "hot_topics": [
+    {
+      "topic": "精灵系统",
+      "count": 5,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181765",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181721",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181707",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "洛克最无脑无需改技能喵喵单刷命定白金独角马",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1kqXTBREfq",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "卡特亚用绫镜球抓鸭吉吉直接变炫彩：各个精灵都抓一个炫彩 这就是大佬的象征！",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV143XMBaEw2",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "PVP/战斗",
+      "count": 5,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181765",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181760",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181673",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181707",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "轻松打败赛季对战的狂热的精英学者",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1kzXTBWE5Z",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "剧情/世界观",
+      "count": 4,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181765",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181707",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "【洛克王国世界】荣登免费畅销榜第一名！两个棱镜球＋五个国王球直接发给大家！",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1czXTBsEpo",
+          "sentiment": "positive"
+        },
+        {
+          "title": "这还是魔方吗？鬼叔看洛克王国世界登顶ios畅销榜，直接送棱镜球和国王球：他们是真挺佛系的",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1kzXTBWEei",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "攻略/玩法",
+      "count": 3,
+      "items": [
+        {
+          "title": "洛克轻攻略之《多人挑战》",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1kqXTBRERu",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "洛克王国新手最细保姆级开荒攻略，看完直接起飞。",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV16zXTBWESd",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "喵呜怎么变大胃袋了 巴老师看喵呜变大胃袋",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1czXTBsEkK",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "氪金/付费",
+      "count": 2,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181771",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181765",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "topic": "社交/组队",
+      "count": 2,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181760",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181707",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "童年回忆",
+      "count": 2,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181744",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181707",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "画质/优化",
+      "count": 1,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48181760",
+          "sentiment": "positive"
+        }
+      ]
+    }
+  ],
+  "top_keywords": [
+    [
+      "喵喵",
+      201
+    ],
+    [
+      "喵喵喵",
+      198
+    ],
+    [
+      "喵喵喵喵",
+      197
+    ],
+    [
+      "投入",
+      94
+    ],
+    [
+      "入投",
+      93
+    ],
+    [
+      "投入投",
+      93
+    ],
+    [
+      "入投入",
+      92
+    ],
+    [
+      "投入投入",
+      92
+    ],
+    [
+      "入投入投",
+      92
+    ],
+    [
+      "精灵",
+      8
+    ],
+    [
+      "克王",
+      7
+    ],
+    [
+      "洛克王",
+      7
+    ],
+    [
+      "克王国",
+      7
+    ],
+    [
+      "洛克王国",
+      7
+    ],
+    [
+      "镜球",
+      7
+    ],
+    [
+      "系统",
+      6
+    ],
+    [
+      "玩家",
+      5
+    ],
+    [
+      "很多",
+      5
+    ],
+    [
+      "不是",
+      5
+    ],
+    [
+      "直接",
+      5
+    ],
+    [
+      "棱镜",
+      5
+    ],
+    [
+      "棱镜球",
+      5
+    ],
+    [
+      "炫彩",
+      5
+    ],
+    [
+      "好玩",
+      4
+    ],
+    [
+      "就是",
+      4
+    ],
+    [
+      "休闲",
+      4
+    ],
+    [
+      "宝箱",
+      4
+    ],
+    [
+      "对战",
+      4
+    ],
+    [
+      "做的",
+      4
+    ],
+    [
+      "是个",
+      3
+    ]
+  ],
+  "complaints": [],
+  "memes": [
+    [
+      "精灵都抓一个炫彩 这就是大佬的象征",
+      2
+    ]
+  ],
+  "top_positive": [
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "氪金内容少，平民玩家也能通，好玩爱玩",
+      "score": 5,
+      "author": "Senior Gamer",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48181771",
+      "published_at": "2026-03-27T23:23:21"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "朋友，知道你会来看差评，所以我给你聊聊基于我自己的真实体验吧。这游戏首先定位就完完全全的是个休闲游戏，你不用去看网络上什么必抓精灵啊，挑自己喜欢的就行，其次大世界有很多宝箱，发光的隐藏宝箱，看见就可以拿，但没必要太累全拿，不拿完也不会影响你的游戏体验，记住，这是个休闲游戏。再者，这是个主打精灵回合对战的游戏，不是崩铁那种挂机自动对战的，它有着猜拳的对战模式，这点的乐趣主要集中于pvp了。然后这游戏画面比宝可梦好，但有些交互逻辑会有些拖沓，精灵理论上全部免费抓，目前没有数值超级膨胀的，意味着你可以构筑自己喜欢的体系队伍，目前游戏初，很多阵容要自己摸索，当然这种都是针对于pvp了，如果你不想玩pvp，你可以观战别人打，也能拿奖励，很良心。氪金点真是太良心了，就一个通行证和皮肤，我是真在想官方到底赚不赚钱。放心去玩吧，当然主打类宝可梦，不喜欢这种类型的游戏就没必要下载了",
+      "score": 2,
+      "author": "哒梨鸭",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48181765",
+      "published_at": "2026-03-27T23:22:44"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "火速开机，洛手现在上号能领免费棱镜球和国王球",
+      "content": "-",
+      "author": "山海叶梓",
+      "views": 6,
+      "likes": 1,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1rzXTBWEsv",
+      "bvid": "BV1rzXTBWEsv",
+      "published_at": "2026-03-27T23:20:03"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "意外的好玩，画面质量很不错，美中不足的是很多地方动画过渡做的并不好，很多地方都不流畅可玩性方面我是觉得夯爆了，同时照顾到了PVE，PVP，休闲党，收集党。社交方面做的就有点僵硬了，有各种各样的小问题。期待后续的优化内购方面好像只有装扮以及养成材料，目前对于零氪党还是很友好的。但是相对的，对于打算氪的玩家来说就不是那么友好了，商品的价格都定的很高",
+      "score": 4,
+      "author": "散学白落",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48181760",
+      "published_at": "2026-03-27T23:22:17"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "不是脱，为童年买单，好玩",
+      "score": 5,
+      "author": "☆",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48181744",
+      "published_at": "2026-03-27T23:19:46"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "那个留言魔法支线真是又臭又长，要打七个人，这七个人里面后面的拿的精灵还比玩家的数值高，玩家才三颗心对面就有五颗心的，玩你麻痹呢，一个破几把支线整的什么玩意",
+      "score": 2,
+      "author": "天命",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48181721",
+      "published_at": "2026-03-27T23:17:37"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "剑三玩家玩洛克王国 洛克王国真好玩喵！",
+      "content": "",
+      "author": "千恋喵喵",
+      "views": 0,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1x3XMBYECW",
+      "bvid": "BV1x3XMBYECW",
+      "published_at": "2026-03-27T23:24:38"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "【洛克王国世界】荣登免费畅销榜第一名！两个棱镜球＋五个国王球直接发给大家！",
+      "content": "无敌了兄弟们，快去领取吧",
+      "author": "启冉老哥",
+      "views": 1,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1czXTBsEpo",
+      "bvid": "BV1czXTBsEpo",
+      "published_at": "2026-03-27T23:23:35"
+    }
+  ],
+  "top_negative": [
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "又臭又长的主线任务，不能跳过的战斗开局动画和特殊技动画，公测还删除了2倍速战斗，还有垃圾挖矿垃圾宝箱系统一共就带6只宠物遇见没携带属性的宝箱还得来回切换，垃圾坐骑系统谁家坐骑只能往上飞等自由降落啊",
+      "score": 1,
+      "author": "手机用户17674115",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48181673",
+      "published_at": "2026-03-27T23:13:03"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "最强机制怪之一 丢丢无伤速通 圣羽翼王 珍贵录像",
+      "content": "",
+      "author": "晖skye",
+      "views": 7,
+      "likes": 1,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1rzXTBWEjw",
+      "bvid": "BV1rzXTBWEjw",
+      "published_at": "2026-03-27T23:21:48"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "学啥不好学原神，学的还不好，肝的要命，内测的啥",
+      "score": 1,
+      "author": "User45778538",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48181740",
+      "published_at": "2026-03-27T23:19:19"
+    }
+  ]
+}

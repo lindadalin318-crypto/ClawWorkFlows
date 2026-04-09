@@ -1,0 +1,178 @@
+{
+  "Here's how I'm generating game ready art assets for my vibe coded game;  → No co": {
+    "title_zh": "我是如何为 Vibe Coding 游戏生成可用美术资产的——无需代码",
+    "full_summary": "作者分享在 Vibe Coding 游戏开发中用 AI 工具生成游戏可用美术资产的完整流程，无需手写代码，探索了从提示词到成品资产的自动化路径，对独立游戏开发者极具参考价值。"
+  },
+  "It seems that accusing indie game studios of using AI is the new norm these days": {
+    "title_zh": "指控独立游戏工作室使用 AI 已成新常态，这很令人担忧",
+    "full_summary": "作者批评当下盛行的一种风气：随意指控独立游戏工作室使用 AI，认为这种不加甄别的指控已成新常态，对开发者社区造成了不公平的压力和伤害。"
+  },
+  "Natural language control for Unreal Engine   https:// github.com/chongdashu/unr ": {
+    "title_zh": "用自然语言控制 Unreal Engine——开源插件发布",
+    "full_summary": "开发者发布开源插件，实现用自然语言直接控制 Unreal Engine，无需传统代码操作，是 Vibe Coding 与 UE 深度结合的重要工具，已发布到 GitHub 供社区使用。"
+  },
+  "AI cinematics? Not the future-unless you're a massive studio…  But THIS, made by": {
+    "title_zh": "AI 过场动画？不是未来——除非你是大厂。但这个由 AI 制作的…",
+    "full_summary": "作者认为 AI 过场动画对大多数开发者来说并非未来方向，但随后展示了一个令人印象深刻的 AI 制作案例，表明在特定条件下 AI 生成过场动画已达到可用水准，引发对 AI 在游戏叙事中角色的讨论。"
+  },
+  "W Valve. And agree, a lot of AI BS out there!": {
+    "title_zh": "Valve 做得对——市面上确实有大量 AI 噪音",
+    "full_summary": "推主赞扬 Valve 对 AI 内容的某项立场，同时感叹当前市场上充斥着大量 AI 相关噪音和虚假宣传，呼吁开发者保持理性判断。"
+  },
+  "✔︎ tried generating a multiuser tank game in google ai studio for the first time": {
+    "title_zh": "首次尝试在 Google AI Studio 生成多人坦克游戏",
+    "full_summary": "作者首次尝试用 Google AI Studio 生成多人坦克游戏，分享了初次体验的感受和遇到的挑战，探索 AI 生成式游戏开发工具的实际能力边界。"
+  },
+  "Expedition 33 also got its fair share of backlash when AI generated assets were ": {
+    "title_zh": "《远征33》因使用 AI 生成资产同样遭到强烈反弹",
+    "full_summary": "《远征33》游戏因被发现使用 AI 生成资产而遭到玩家社区的强烈批评，这一事件再次引发关于游戏行业 AI 使用边界的讨论，成为当前 AI 与游戏开发争议的典型案例。"
+  },
+  "After analyzing 600K+ AI NPC conversations, here's what nobody expected:   Human": {
+    "title_zh": "分析60万+条 AI NPC 对话后，发现了意想不到的结论：玩家把 NPC 当人看",
+    "full_summary": "研究者分析超过60万条 AI NPC 对话数据后，发现了出乎意料的结果：玩家会对 AI NPC 产生真实的情感连接，将其视为真实人物，这一发现对游戏叙事和 NPC 设计具有重大启示。"
+  },
+  "We know how much time, effort, and passion goes into making a game. False accusa": {
+    "title_zh": "我们深知做游戏的心血——对使用 AI 的不实指控是对开发者的伤害",
+    "full_summary": "游戏开发者或发行商发声，表达对不实 AI 指控的强烈反对，强调游戏开发背后的大量时间、精力和热情，呼吁玩家在指控前先了解事实，避免对开发者造成不公平伤害。"
+  },
+  "you genuinely have to be so stupid, cause none of these use GEN AI, which is exa": {
+    "title_zh": "这些根本没用生成式 AI——盲目指控才是真的无知",
+    "full_summary": "推主对随意将游戏功能归咎于生成式 AI 的指控感到愤怒，指出被指控的这些功能根本没有使用生成式 AI，批评此类盲目指控是无知且有害的，正是这种行为在破坏开发者社区的氛围。"
+  },
+  "You can now use composer 2 with unreal engine plugin for vibe coding games  http": {
+    "title_zh": "现在可以用 Composer 2 配合 Unreal Engine 插件进行 Vibe Coding 游戏开发了",
+    "full_summary": "Composer 2 发布 Unreal Engine 插件，开发者现在可以直接在 UE 中使用 Composer 2 进行 Vibe Coding 游戏开发，进一步降低 AI 辅助游戏开发的门槛，是本周游戏开发工具领域的重要更新。"
+  },
+  "I dont get wht spend cycles on the easiest part of game dev, just grab an asset ": {
+    "title_zh": "为什么要在游戏开发最简单的部分浪费时间？直接用资产商店就行",
+    "full_summary": "推主质疑为何要在游戏开发中相对简单的资产制作环节花费大量精力，认为直接从资产商店购买现成资产更高效，应该把时间和精力集中在游戏核心玩法设计等更难的部分。"
+  },
+  "So in a game that has tons of things to do ppl stop by staring at paintinga to s": {
+    "title_zh": "游戏里有那么多事情可做，玩家却停下来盯着画作看——说明叙事环境设计成功了",
+    "full_summary": "开发者分享了一个令人欣慰的观察：尽管游戏中有大量内容可以体验，玩家却主动停下来欣赏游戏世界中的画作，这说明游戏的叙事环境设计和世界构建达到了让玩家沉浸其中的效果。"
+  },
+  "STOP BEING AN NPC!  Level up to Creator for $0.  Alisia Habibi is gifting her Sy": {
+    "title_zh": "别再做 NPC！零成本升级为创作者——Alisia Habibi 免费赠送系统",
+    "full_summary": "推主号召受众停止被动消费（做NPC），主动成为创作者，并宣传 Alisia Habibi 提供的免费创作者升级系统，鼓励更多人踏上内容创作或独立开发之路。（推广内容）"
+  },
+  "Pretty shitty of them. Offering dev assistance, snubbed a partnership. Too busy ": {
+    "title_zh": "太令人失望了——主动提供开发协助却被无视，对方太忙于自己的 AI 项目",
+    "full_summary": "推主吐槽某公司主动提出开发协助合作却遭到拒绝，原因是对方忙于自己的 AI 项目，认为这种态度令人失望，反映了当前 AI 热潮中一些公司忽视外部合作机会的现象。"
+  },
+  "So how does this effect the overall gameplay of the game ? 99% of people that ar": {
+    "title_zh": "这对整体游戏体验有什么影响？99% 的玩家根本不在乎这些",
+    "full_summary": "推主对某项游戏技术争议提出质疑，认为99%的普通玩家根本不关心这些技术细节，真正影响游戏体验的应该是整体玩法质量，而非某项具体技术是否使用了 AI。"
+  },
+  "#Nvidia #DLSS 5 opportunity or destruction of game arts So with Nvidia DLSS 5 De": {
+    "title_zh": "Nvidia DLSS 5：游戏艺术的机遇还是毁灭？",
+    "full_summary": "推主就 Nvidia DLSS 5 对游戏美术的影响展开讨论，探讨这一 AI 增强技术究竟是为游戏艺术带来新机遇（更高画质、更佳性能），还是会破坏开发者的艺术意图和视觉风格。"
+  },
+  "While everyone's using AI, I'm out here relying on my janky modeling, drawing, a": {
+    "title_zh": "别人都在用 AI，我还在靠自己蹩脚的建模、手绘和动画——但这就是我",
+    "full_summary": "独立开发者在 AI 工具盛行的当下，选择坚持用自己的手工技能（建模、绘画、动画）进行游戏开发，虽然承认技术不够完美，但这种坚持手工创作的态度获得了社区的广泛共鸣和支持。"
+  },
+  "Eid Mubarak everyone!  Gonna eat a lot of Ketupat (rhombus-wrapped rice) this we": {
+    "title_zh": "开斋节快乐！这周要大吃特吃粽子（菱形糯米饭）",
+    "full_summary": "游戏开发者发布开斋节祝福，分享将要享用传统菱形糯米饭（Ketupat）的节日计划，是一条轻松的节日问候推文，展示了游戏开发者社区的文化多样性。"
+  },
+  "Holy sh*t. Composer 2 just processed, audited and gave me pointers after reading": {
+    "title_zh": "太震撼了！Composer 2 读完整个代码库后给出了深度审计和改进建议",
+    "full_summary": "开发者对 Composer 2 的表现感到震惊：该工具处理并审计了整个代码库，并提供了具体的改进建议，展示了 AI 代码审计工具在大型项目中的强大能力，是本期 Vibe Coding 工具实测中最令人印象深刻的案例之一。"
+  },
+  "He liked a video game AI graphical effect and the psycho NPC mob didn't like tha": {
+    "title_zh": "他喜欢某游戏的 AI 图形效果，却被疯狂的反 AI 玩家围攻",
+    "full_summary": "推主讲述某人因公开表示喜欢某游戏的 AI 图形增强效果，遭到反 AI 玩家群体的激烈攻击，批评这种不容异见的极端态度，认为玩家有权对 AI 技术持不同看法。"
+  },
+  "This game was in dev hell trying to do everything, I would not be surprised if g": {
+    "title_zh": "这款游戏深陷开发地狱，想面面俱到却什么都没做好——用 AI 生成内容也不奇怪",
+    "full_summary": "推主评论某款长期陷入开发地狱的游戏，认为该项目试图做太多内容导致进展缓慢，如果最终借助 AI 生成部分内容也在意料之中，这一评论折射出当前游戏开发中 AI 使用的现实困境。"
+  },
+  "Migration alert on  http:// pump.fun  $F3 - No Game   AI called this at 10k MC  ": {
+    "title_zh": "pump.fun 上 $F3 代币迁移预警——AI 在市值1万时就预判到了",
+    "full_summary": "加密货币相关内容：pump.fun 平台上 $F3 代币发出迁移预警，声称 AI 工具在市值仅1万时就预测到了这一走势。（与游戏开发关联性较弱，疑似加密/Web3推广内容）"
+  },
+  "You have no idea how much is used in game dev today, way way more than you think": {
+    "title_zh": "你根本不知道游戏开发中已经用了多少 AI——远超你的想象",
+    "full_summary": "推主指出当前游戏开发行业对 AI 工具的实际使用程度远超普通玩家的认知，大量 AI 技术已悄然融入游戏开发的各个环节，只是没有被公开宣传，引发对行业 AI 透明度的讨论。"
+  },
+  "NEW: Work on AI for the next project from PlayStation's Haven Studios!    AI Pro": {
+    "title_zh": "招聘：PlayStation Haven Studios 下一个项目的 AI 程序员职位开放",
+    "full_summary": "PlayStation 旗下 Haven Studios 发布招聘公告，为下一个游戏项目招募 AI 程序员，职位涉及游戏 AI 系统开发，是大型游戏工作室加码 AI 投入的最新信号。"
+  },
+  "Spending $250,000 On Tokens As A $500,000/Year Gamedev (RIP Chuck Norris)  https": {
+    "title_zh": "年收入50万美元的游戏开发者，在 AI Token 上花了25万——附完整账单",
+    "full_summary": "一位年收入50万美元的游戏开发者分享了其在 AI Token 上高达25万美元的惊人花费明细，标题附有「RIP Chuck Norris」的幽默感，揭示了重度依赖 AI 工具进行游戏开发的真实成本。"
+  },
+  "im used to blender+godot+unreal, the switch to not move with a cursor each eleme": {
+    "title_zh": "从 Blender+Godot+Unreal 切换到不用鼠标操作每个元素——需要适应",
+    "full_summary": "开发者分享从传统 Blender+Godot+Unreal 工作流切换到 AI 辅助开发工具的适应过程，习惯了用鼠标精细操作每个元素后，转向更自然语言驱动的工作方式需要一定的思维转变。"
+  },
+  "Unreal!!!": {
+    "title_zh": "Unreal（太不可思议了/Unreal Engine）！！！",
+    "full_summary": "简短感叹词，可能是对某个 Unreal Engine 相关内容或游戏开发成果的惊叹反应，具体语境需结合原帖图片或视频。"
+  },
+  "Its a good sandbox, but there is no game to play man. Its shallow. Every quest i": {
+    "title_zh": "这是个不错的沙盒，但根本没有游戏可玩——太浅了，每个任务都一样",
+    "full_summary": "玩家对某款沙盒游戏的批评：虽然沙盒机制不错，但游戏内容极度匮乏，每个任务都大同小异，缺乏深度，无法提供真正有趣的游戏体验，反映了 AI 生成内容在深度和多样性上的局限。"
+  },
+  "$0 in marketing, yet made my trivia app sticky enough that 25% of users play ove": {
+    "title_zh": "零营销预算，但我的益智问答 App 让25%的用户每天都来玩——分享留存策略",
+    "full_summary": "独立开发者分享在零营销预算下让益智问答 App 实现25%日活留存率的经验，重点介绍提升用户粘性的产品设计策略，对独立游戏和 App 开发者具有实用参考价值。"
+  },
+  "Abandoned house scene I've been working on": {
+    "title_zh": "我一直在制作的废弃房屋场景",
+    "full_summary": "Unity 开发者分享正在制作的废弃房屋场景，展示环境美术设计进展，画面风格偏写实，灯光氛围营造出荒废感，是一个独立游戏或作品集项目的场景展示。"
+  },
+  "Animated Lava Lamps": {
+    "title_zh": "动态熔岩灯效果——Unreal Engine 实现",
+    "full_summary": "开发者在 Unreal Engine 中实现了动态熔岩灯效果，通过材质和流体模拟展示了逼真的熔岩灯动态效果，是一个有趣的技术演示和视觉效果案例。"
+  },
+  "Annother year, annother devlog": {
+    "title_zh": "又一年，又一篇开发日志",
+    "full_summary": "开发者发布年度开发日志更新，分享游戏项目的年度进展，标题的轻松语气暗示这是一个长期开发中的项目，坚持记录开发历程。"
+  },
+  "Anyone found a way to move files in Unity without destroying Git history?": {
+    "title_zh": "有人找到在 Unity 中移动文件而不破坏 Git 历史的方法吗？",
+    "full_summary": "Unity 开发者寻求在项目中移动文件时保留 Git 版本历史的解决方案，这是 Unity 项目管理中的常见痛点，因为 Unity 的 .meta 文件机制容易在文件移动时导致 Git 历史断裂。"
+  },
+  "Attempting Heat Vision. How to handle this without duplicating every single mesh": {
+    "title_zh": "尝试实现热视觉效果——如何在不复制每个网格的情况下实现？",
+    "full_summary": "Godot 开发者尝试实现热视觉（Heat Vision）特效，探讨如何在不为每个网格创建副本的情况下高效实现该效果，寻求社区提供着色器或后处理方面的技术建议。"
+  },
+  "Automatic Cleanup Plugin, Optimize Your Project In A Single Click": {
+    "title_zh": "自动清理插件——一键优化你的 Unreal Engine 项目",
+    "full_summary": "开发者发布 Unreal Engine 自动清理插件，可一键扫描并清理项目中的冗余资产、未使用文件等，帮助开发者快速优化项目体积和性能，是 UE 项目管理的实用工具。"
+  },
+  "Best places to find Unity freelance work?": {
+    "title_zh": "哪里可以找到 Unity 自由职业工作？",
+    "full_summary": "Unity 开发者询问寻找自由职业工作的最佳平台和渠道，社区讨论涵盖 Upwork、Fiverr、游戏开发论坛等各类平台的优劣，对寻求接单机会的独立 Unity 开发者有参考价值。"
+  },
+  "Best way to promote a game with no budget?": {
+    "title_zh": "零预算推广游戏的最佳方法是什么？",
+    "full_summary": "独立游戏开发者寻求零预算推广游戏的有效策略，社区分享了社交媒体运营、参加游戏节、在 itch.io 发布、联系游戏博主等低成本推广方法，是独立游戏营销的实用讨论帖。"
+  },
+  "Blunt weapon robot assault simulator, KLUDGE.": {
+    "title_zh": "钝器机器人突击模拟器《KLUDGE》",
+    "full_summary": "Unity 开发者展示正在开发的钝器机器人突击模拟器游戏《KLUDGE》，玩家控制机器人使用钝器进行战斗，游戏风格独特，是一款融合机械美学与暴力爽感的独立游戏项目。"
+  },
+  "Building Reactive Turn-Based RPG Template for FAB - Quick Dialogues | Devlog #8": {
+    "title_zh": "为 FAB 构建响应式回合制 RPG 模板——快速对话系统 | 开发日志 #8",
+    "full_summary": "开发者发布回合制 RPG 模板的第8篇开发日志，本期聚焦快速对话系统的实现，该模板将发布到 Unreal Engine 的 FAB 资产商店，为其他开发者提供可复用的回合制 RPG 基础框架。"
+  },
+  "Building a single-player extraction FPS in Godot - first WIP clip showing locomo": {
+    "title_zh": "用 Godot 开发单人撤离 FPS——首个 WIP 片段展示移动系统",
+    "full_summary": "开发者分享用 Godot 引擎开发单人撤离类 FPS 游戏的首个进度视频，重点展示角色移动系统的实现效果，是 Godot 引擎在 FPS 类型游戏开发中的实践案例。"
+  },
+  "Cities Skylines 2 failed because of Unity? Is this true? I investigated!": {
+    "title_zh": "《城市：天际线2》失败是因为 Unity？我调查了一番",
+    "full_summary": "开发者对《城市：天际线2》性能问题进行深度调查，探讨游戏发布时严重的性能问题是否真的源于 Unity 引擎本身的局限，还是开发团队的优化失误，分析结论对 Unity 大型项目开发者有参考价值。"
+  },
+  "Colors shift and blackholes emerge as you progress levels in my game": {
+    "title_zh": "随着关卡推进，颜色发生变化，黑洞开始出现——我游戏中的视觉进化设计",
+    "full_summary": "Godot 开发者展示游戏中随关卡进度动态变化的视觉设计：颜色逐渐偏移、黑洞效果随之出现，这种将视觉变化与游戏进度绑定的设计手法增强了游戏的沉浸感和叙事张力。"
+  },
+  "DRM impact on video game reception": {
+    "title_zh": "DRM 对游戏口碑的影响分析",
+    "full_summary": "游戏开发者讨论数字版权管理（DRM）对游戏玩家接受度和口碑的影响，分析不同 DRM 策略（Steam DRM、Denuvo等）与游戏评分之间的关系，为独立开发者提供发行策略参考。"
+  }
+}

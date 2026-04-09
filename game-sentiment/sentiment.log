@@ -1,0 +1,45 @@
+2026-03-26 17:28:45,060 [INFO] TapTap reviews: 0 items
+2026-03-26 17:28:45,386 [INFO] TapTap forum: 0 items
+2026-03-26 17:28:47,707 [INFO] Bilibili videos: 20 items
+2026-03-26 17:28:48,783 [INFO] NGA posts: 40 items
+2026-03-26 17:28:48,925 [ERROR] XHS fetch error: cannot import name 'stealth_sync' from 'playwright_stealth' (/Users/dada/vibe-coding-digest/venv/lib/python3.14/site-packages/playwright_stealth/__init__.py)
+2026-03-26 17:28:48,925 [INFO] XiaoHongShu notes: 0 items
+2026-03-27 23:16:16,742 [INFO] TapTap reviews: 0 items
+2026-03-27 23:16:17,051 [INFO] TapTap forum: 0 items
+2026-03-27 23:16:18,950 [INFO] Bilibili videos: 20 items
+2026-03-27 23:16:19,507 [INFO] NGA posts: 40 items
+2026-03-27 23:16:48,159 [ERROR] XHS page error (洛克王国世界): Timeout 15000ms exceeded.
+2026-03-27 23:16:48,596 [INFO] XiaoHongShu notes: 0 items
+2026-03-27 23:24:51,823 [INFO] TapTap reviews: 9 items
+2026-03-27 23:24:55,115 [INFO] TapTap forum: 0 items
+2026-03-27 23:24:57,126 [INFO] Bilibili videos: 20 items
+2026-03-27 23:24:57,587 [INFO] NGA posts: 40 items
+2026-03-27 23:25:24,036 [ERROR] XHS page error (洛克王国世界): Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("section.note-item, .feeds-container .note-item") to be visible
+
+2026-03-27 23:25:24,278 [INFO] XiaoHongShu notes: 0 items
+2026-03-28 12:07:43,168 [INFO] TapTap reviews: 9 items
+2026-03-28 12:07:47,202 [INFO] TapTap forum: 0 items
+2026-03-28 12:07:49,985 [INFO] Bilibili videos: 20 items
+2026-03-28 12:07:50,601 [INFO] NGA posts: 40 items
+2026-03-28 12:23:12,367 [ERROR] XHS page error (洛克王国世界): Timeout 15000ms exceeded.
+2026-03-28 12:23:12,554 [INFO] XiaoHongShu notes: 0 items
+2026-04-08 12:04:30,085 [INFO] TapTap reviews: 8 items
+2026-04-08 12:04:33,524 [INFO] TapTap forum: 0 items
+2026-04-08 12:04:35,436 [INFO] Bilibili videos: 20 items
+2026-04-08 12:04:35,819 [INFO] NGA posts: 40 items
+2026-04-08 12:05:00,657 [ERROR] XHS page error (洛克王国世界): Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("section.note-item, .feeds-container .note-item") to be visible
+
+2026-04-08 12:05:01,153 [INFO] XiaoHongShu notes: 0 items
+2026-04-09 12:03:40,099 [INFO] TapTap reviews: 8 items
+2026-04-09 12:03:43,745 [INFO] TapTap forum: 0 items
+2026-04-09 12:03:45,776 [INFO] Bilibili videos: 20 items
+2026-04-09 12:03:46,172 [INFO] NGA posts: 40 items
+2026-04-09 12:04:10,750 [ERROR] XHS page error (洛克王国世界): Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("section.note-item, .feeds-container .note-item") to be visible
+
+2026-04-09 12:04:11,005 [INFO] XiaoHongShu notes: 0 items

@@ -1,0 +1,85 @@
+=================================================================
+🎮 AI Game Dev & Vibe Coding Digest v3.0
+⏰ 2026-03-14 09:48:45
+🔍 抓取过去 24 小时 | 双模块架构
+📋 模块一：AI+游戏（严格平台顺序）| 模块二：AI通用
+=================================================================
+📡 [1/9] 抓取 KM（腾讯内部）...
+  ⚠️  KM 数据已有 2670 分钟，建议重新抓取
+  ✅ KM 加载 12 条（M1:4 M2:8）
+📡 [2/9] 抓取微信公众号（搜狗微信搜索）...
+  ✅ 微信公众号 获取 6 条（M1:3 M2:3）
+📡 [3/9] 抓取 X/Twitter（Playwright）...
+    ✅ [vibe coding game] 获取 17 条推文
+    ✅ [vibe coding unity] 获取 12 条推文
+    ⚠️  [vibe coding unreal] 未找到推文
+    ⚠️  [ai game dev] 未找到推文
+    ⚠️  [ai gamedev] 未找到推文
+    ⚠️  [cursor unity] 未找到推文
+    ⚠️  [cursor unreal] 未找到推文
+    ✅ [cursor godot] 获取 16 条推文
+    ✅ [llm game dev] 获取 14 条推文
+    ⚠️  [ai indie game] 未找到推文
+    ✅ [ai npc game] 获取 12 条推文
+    ✅ [vibe coding] 获取 18 条推文
+    ✅ [cursor ide] 获取 14 条推文
+    ✅ [claude code] 获取 12 条推文
+    ✅ [windsurf ide] 获取 11 条推文
+    ✅ [agentic coding] 获取 13 条推文
+    ✅ [ai coding assistant] 获取 9 条推文
+  ✅ X/Twitter 获取 108 条（M1:16 M2:92）
+📡 [4/9] 抓取 Reddit (RSS)...
+  ✅ Reddit 获取 103 条（M1:89 M2:14）
+📡 [5/9] 抓取 HackerNews...
+  ✅ HackerNews 获取 25 条（M1:1 M2:24）
+📡 [6/9] 抓取 Dev.to...
+  ✅ Dev.to 获取 10 条（M1:0 M2:10）
+📡 [7/9] 抓取 RSS 订阅源...
+    • 36kr（zh）: 6 条
+    • Simon Willison's Blog（en）: 3 条
+    • DEV.to AI（en）: 4 条
+  ✅ RSS 共获取 13 条
+📡 [8/9] 抓取 ProductHunt...
+  ✅ ProductHunt 获取 0 条
+📡 [9/9] 抓取 GitHub Trending...
+  ✅ GitHub 获取 27 条（M1:2 M2:25）
+
+📊 抓取完成（去重后共 116 条）
+   🎮 模块一 AI+游戏: 42 条
+   🤖 模块二 AI通用:  74 条
+
+   平台分布：
+   • X/Twitter: 30 条
+   • HackerNews: 15 条
+   • GitHub: 15 条
+   • RSS: 13 条
+   • KM: 12 条
+   • Dev.to: 10 条
+   • 微信公众号: 6 条
+   • Reddit r/godot: 5 条
+   • Reddit r/gamedev: 5 条
+   • Reddit r/Unity3D: 3 条
+   • Reddit r/unrealengine: 2 条
+
+📄 报告已保存：/Users/dada/vibe-coding-digest/digest_2026-03-14.md
+
+=================================================================
+✅ 完成！通知摘要预览：
+=================================================================
+🎮 AI游戏开发 & Vibe Coding 日报 [03/14]
+共 116 条 | 🎮模块一:42条 🤖模块二:74条
+
+── 🎮 AI+游戏 精选 ──
+• 硅基徒弟与碳基导师：基于 CodeBuddy + UE5 的 NPC AI 开发实录
+  KM | https://km.woa.com/articles/show/654562?jumpfrom=kmmcp
+• 完全用提示词在CodeBuddy 完成 Unity MCP 接入和使用
+  KM | https://km.woa.com/articles/show/654536?jumpfrom=kmmcp
+• AI生成UE材质：从自然语言到UE材质的全自动探索
+  KM | https://km.woa.com/articles/show/654590?jumpfrom=kmmcp
+
+── 🤖 AI通用 精选 ──
+• 🦞首个 AI Agent 友好社区上线！解锁人虾社交新生态
+  KM
+• Vibe Designing + Vibe Coding：用 Multi-Agent 打通设计到代码的最后一公…
+  KM
+

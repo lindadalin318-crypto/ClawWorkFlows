@@ -1,0 +1,16 @@
+🎮 AI游戏开发 & Vibe Coding 日报 [04/09]
+共 112 条 | 🎮模块一:56条 🤖模块二:56条
+
+── 🎮 AI+游戏 精选 ──
+• AI游戏开发&策划HC
+  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4docs5lJcOHvPf_olfSEf_ut9T0q3oY-lqXa8Fplpd9UtNMuJ5cdxbWnQLcGd-bHs3GRFlYBTCpM_OU8n4VygbhT9eeowtDzQup0vE5w-M39TnSz4efVQrOuic0RJa7N0h5pKj9IVJ1aK_iTtyLuNGumgQQ9nfJiHDTfEmsdcQ9Ani55YuWfDJa4rY0hO7-aUP21rkml2NLt7XarLIjuiNQL0Hr9Gyd3Q..&type=2&query=AI%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92&token=null
+• 独立游戏暴富第一步:Godot+MCP+AI开发环境搭建教程
+  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4docs5lJcOHDWjPLOvxKdTut9T0q3oY-lqXa8Fplpd9syVkaTWGLvOoWgetghVHBqJ10R4PZ8IxwblQ3Jmokb90EBpt4RAfaCUS-0VMkpl9EZ33l-MtCnUqUZzx5XumzxjMSy4UC5LAXXXZiKfmggiVztkfyx0lZhoV1qJxZIa0SC2Uy5Tppa0qmqk9LsiChcDpgtFrp3IcM_DZ2AzvMpDRtmyIGw2VAg..&type=2&query=Godot AI&token=null
+• CocosCreator 的 NPCAI架构实现
+  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4docs5lJcOH6g9Zu1fR2qjut9T0q3oY-lqXa8Fplpd9NO7-oq0GyuoPjTAqXSOvLuxjsszBXKvIomn0NrX9ZoW18CVihdjE1RT-8JwKmqyTCsgZWy8_EpjaDKuyqcSVO_BxZDzyAF71OwU4PvhtuIf-_OrtIPxSXYIt4Or_WZ96kwDAZs5Z5K9YMQCOJRUUHjbGL-Z5bpVMUBJXrRlTWtvyPfCoem7FzA..&type=2&query=Cocos AI&token=null
+
+── 🤖 AI通用 精选 ──
+• ClaudeCode使用
+  微信公众号
+• 全球最强AI代码助手源码泄露!连夜拆解后,我发现了这6个颠覆认知的设计秘密
+  微信公众号

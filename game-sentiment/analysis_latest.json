@@ -1,0 +1,430 @@
+{
+  "game": "洛克王国：世界",
+  "analyzed_at": "2026-04-09T12:04:11.008901",
+  "total_items": 68,
+  "platform_stats": {
+    "taptap_reviews": {
+      "total": 8,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 2,
+      "sentiment_ratio": {
+        "positive_pct": 25.0,
+        "negative_pct": 50.0
+      }
+    },
+    "bilibili": {
+      "total": 20,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 18,
+      "sentiment_ratio": {
+        "positive_pct": 10.0,
+        "negative_pct": 0.0
+      }
+    },
+    "nga": {
+      "total": 40,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 40,
+      "sentiment_ratio": {
+        "positive_pct": 0.0,
+        "negative_pct": 0.0
+      }
+    }
+  },
+  "sentiment_overview": {
+    "total": 68,
+    "positive": 4,
+    "negative": 4,
+    "neutral": 60,
+    "overall": "🟡 舆情中性，需持续观察",
+    "positive_pct": 5.9,
+    "negative_pct": 5.9
+  },
+  "hot_topics": [
+    {
+      "topic": "剧情/世界观",
+      "count": 9,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48305685",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48303362",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48305638",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "碎黄晶矿意外开启一个秘境《洛克王国：世界》",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1XTDpBCE4f",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "我来证明火系就是这个游戏最高的上限队【洛克王国：世界】",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1CpDnBREkF",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "精灵系统",
+      "count": 5,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48305685",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48305609",
+          "sentiment": "negative"
+        },
+        {
+          "title": "炎打技能石、斩断技能石",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1PJDnBZEr9",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "洛克王国我真求你了",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1tYDJBFEtm",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "t0级精灵!在哪里捕捉尖嘴狐仙？怎么获取灵狐/九尾狐的蛋【洛克王国：世界】冰与火之歌",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1NYD7BHEay",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "topic": "PVP/战斗",
+      "count": 2,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48305685",
+          "sentiment": "positive"
+        },
+        {
+          "title": "【洛克王国】骨龙+火神超爽！生存强，韧性高，推队强！",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1KBDHBeEeB",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "画质/优化",
+      "count": 2,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48305609",
+          "sentiment": "negative"
+        },
+        {
+          "title": "【鸣潮】画面太糊灰蒙蒙解决方案，一分钟告别灰糊，让画质变通透，不会太暗也不会太亮，全场景通用滤镜设置",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1r8DpBZE8n",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "攻略/玩法",
+      "count": 2,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48303362",
+          "sentiment": "negative"
+        },
+        {
+          "title": "t0级精灵!在哪里捕捉尖嘴狐仙？怎么获取灵狐/九尾狐的蛋【洛克王国：世界】冰与火之歌",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1NYD7BHEay",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "topic": "更新/活动",
+      "count": 2,
+      "items": [
+        {
+          "title": "【洛克王国】骨龙+火神超爽！生存强，韧性高，推队强！",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1KBDHBeEeB",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "4月兑换码合集（持续更新）【棕色尘埃2】萌新不能错过3-4月版本兑换码（优惠券）大全",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1fSDJB7ESY",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "服务器/登录问题",
+      "count": 1,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48305609",
+          "sentiment": "negative"
+        }
+      ]
+    }
+  ],
+  "top_keywords": [
+    [
+      "克王",
+      12
+    ],
+    [
+      "洛克王",
+      12
+    ],
+    [
+      "克王国",
+      12
+    ],
+    [
+      "洛克王国",
+      12
+    ],
+    [
+      "就是",
+      6
+    ],
+    [
+      "隐藏",
+      5
+    ],
+    [
+      "真的",
+      4
+    ],
+    [
+      "异色",
+      4
+    ],
+    [
+      "剧情",
+      4
+    ],
+    [
+      "精灵",
+      4
+    ],
+    [
+      "我真",
+      4
+    ],
+    [
+      "获取",
+      4
+    ],
+    [
+      "改改",
+      4
+    ],
+    [
+      "那种",
+      4
+    ],
+    [
+      "而且",
+      3
+    ],
+    [
+      "下去",
+      3
+    ],
+    [
+      "感觉",
+      3
+    ],
+    [
+      "不会",
+      3
+    ],
+    [
+      "卡死",
+      3
+    ],
+    [
+      "我家",
+      3
+    ],
+    [
+      "新手",
+      3
+    ],
+    [
+      "恶心",
+      3
+    ],
+    [
+      "你是",
+      3
+    ],
+    [
+      "改改改",
+      3
+    ],
+    [
+      "知道",
+      3
+    ],
+    [
+      "火神",
+      3
+    ],
+    [
+      "平衡",
+      3
+    ],
+    [
+      "衡队",
+      3
+    ],
+    [
+      "平衡队",
+      3
+    ],
+    [
+      "藏任",
+      3
+    ]
+  ],
+  "complaints": [],
+  "memes": [],
+  "top_positive": [
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "刚开始那几天很好玩，但是全图鉴之后，刷异色还是打PVP都不是很感兴趣，又肝又累。而且剧情超级无聊，没有任何推下去的动力。对里面人物还是精灵都没啥感觉，只看强度和颜值了。目前大概率不会玩下去。",
+      "score": 4,
+      "author": "在努力蹦跶的咸鱼",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48305685",
+      "published_at": "2026-04-09T11:52:07"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "以防你不知道熔岩布丁的出场和结算动画是什么样｜洛克王国世界",
+      "content": "可爱可爱",
+      "author": "桃井栗KuRi",
+      "views": 1,
+      "likes": 1,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV18SDnBTERF",
+      "bvid": "BV18SDnBTERF",
+      "published_at": "2026-04-09T12:00:00"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "宝可梦玩家，洛手真的十分十分好玩。强烈图鉴。",
+      "score": 5,
+      "author": "kk01",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48305731",
+      "published_at": "2026-04-09T11:57:29"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "t0级精灵!在哪里捕捉尖嘴狐仙？怎么获取灵狐/九尾狐的蛋【洛克王国：世界】冰与火之歌",
+      "content": "你好，喜欢就点个赞吧，现在关注以后就是老粉了",
+      "author": "古董ii",
+      "views": 0,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1NYD7BHEay",
+      "bvid": "BV1NYD7BHEay",
+      "published_at": "2026-04-09T12:00:00"
+    }
+  ],
+  "top_negative": [
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "不抓炫彩就是修仙神游，抓炫彩，异色，污染肝度堪比高三，而且就是优化太神了，我笔记本9955hx+5070ti能跑到370多帧，但是经常就跑着跑着突然卡死大概30s左右，还有就是网络我真的😅魔方土豆服务器又发力了😅我家WiFi我从来没断联过，就这游戏😅一个小时能断两三次😅太nb了😇而且它这个运行逻辑不像正常游戏那样，就算你断联了也能自己运行一会，等一会再强制卡死，它这个是断连马上卡死，鼠标一点转不动😅就反应特别明显。但是精灵互交确实不错，除了伊里斯重制版天天追着我全家扔反射之外",
+      "score": 4,
+      "author": "碳基生物",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48305609",
+      "published_at": "2026-04-09T11:42:22"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "别玩，有毒，除非你想玩五六个小时的新手教程，这策划真的恶心，把新手教程融入到剧情里。大量无意义低智浪费时间的剧情，纯粹在恶心玩家。这个剧情对话像是ai生成的，关键是极其多的对话让你必须看，不能点跳过。真恶心。",
+      "score": 1,
+      "author": "此歌名风桑",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48303362",
+      "published_at": "2026-04-09T02:43:51"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "自爆给我封了洛克币哪里获取？？？回答我💎资源获取：洛克币获取困难",
+      "score": 2,
+      "author": "Ggg",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48305659",
+      "published_at": "2026-04-09T11:48:05"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "垃圾游戏，材料少的要死",
+      "score": 1,
+      "author": "毀天灭地",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48305743",
+      "published_at": "2026-04-09T11:59:03"
+    }
+  ]
+}

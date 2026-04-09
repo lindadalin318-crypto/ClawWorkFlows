@@ -1,0 +1,550 @@
+{
+  "game": "洛克王国：世界",
+  "analyzed_at": "2026-03-28T12:23:12.558019",
+  "total_items": 69,
+  "platform_stats": {
+    "taptap_reviews": {
+      "total": 9,
+      "positive": 3,
+      "negative": 3,
+      "neutral": 3,
+      "sentiment_ratio": {
+        "positive_pct": 33.3,
+        "negative_pct": 33.3
+      }
+    },
+    "bilibili": {
+      "total": 20,
+      "positive": 8,
+      "negative": 1,
+      "neutral": 11,
+      "sentiment_ratio": {
+        "positive_pct": 40.0,
+        "negative_pct": 5.0
+      }
+    },
+    "nga": {
+      "total": 40,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 40,
+      "sentiment_ratio": {
+        "positive_pct": 0.0,
+        "negative_pct": 0.0
+      }
+    }
+  },
+  "sentiment_overview": {
+    "total": 69,
+    "positive": 11,
+    "negative": 4,
+    "neutral": 54,
+    "overall": "🟡 舆情中性，需持续观察",
+    "positive_pct": 15.9,
+    "negative_pct": 5.8
+  },
+  "hot_topics": [
+    {
+      "topic": "剧情/世界观",
+      "count": 11,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185512",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185473",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185462",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185454",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185450",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "topic": "精灵系统",
+      "count": 5,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185512",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185450",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185444",
+          "sentiment": "positive"
+        },
+        {
+          "title": "我能在每回合刷新技能的情况下通关赛季对战吗？",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1NFXVBLEiY",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "【洛克王国世界】PVP/PVE超级防御位【秩序鱿墨全解析】（分析/培养/抓捕/进化）",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1TFXVBLEH9",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "PVP/战斗",
+      "count": 5,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185512",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185450",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185444",
+          "sentiment": "positive"
+        },
+        {
+          "title": "我能在每回合刷新技能的情况下通关赛季对战吗？",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1NFXVBLEiY",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "【洛克王国世界】PVP/PVE超级防御位【秩序鱿墨全解析】（分析/培养/抓捕/进化）",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1TFXVBLEH9",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "攻略/玩法",
+      "count": 5,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185473",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185450",
+          "sentiment": "positive"
+        },
+        {
+          "title": "雷电法王翼王逃课技巧",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV14FXVBLEDV",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "一分钟拿下圣羽翼王！每个玩家都可以！最细开荒攻略+保姆级教程来啦【洛克王国世界】",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1xcXVByE6p",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "洛克王国世界 如何抓皇家狮鹫教程",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1TcXVByEF8",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "童年回忆",
+      "count": 3,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185462",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185450",
+          "sentiment": "positive"
+        },
+        {
+          "title": "洛手童年经典五大神宠，保姆级点位教学！",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV14FXVBLE2J",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "topic": "氪金/付费",
+      "count": 2,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185512",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48185450",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "topic": "更新/活动",
+      "count": 1,
+      "items": [
+        {
+          "title": "我的刀盾！比比拉布！你汪姿态1修改追梗！愚人节70元随机保底！克格汪克格莫值6元！手游砍特效局内动作",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1NFXVBLEC8",
+          "sentiment": "negative"
+        }
+      ]
+    }
+  ],
+  "top_keywords": [
+    [
+      "克王",
+      17
+    ],
+    [
+      "洛克王",
+      17
+    ],
+    [
+      "克王国",
+      17
+    ],
+    [
+      "洛克王国",
+      17
+    ],
+    [
+      "宠物",
+      11
+    ],
+    [
+      "剧情",
+      10
+    ],
+    [
+      "性格",
+      8
+    ],
+    [
+      "格个",
+      8
+    ],
+    [
+      "个体",
+      8
+    ],
+    [
+      "体值",
+      8
+    ],
+    [
+      "值推",
+      8
+    ],
+    [
+      "推荐",
+      8
+    ],
+    [
+      "性格个",
+      8
+    ],
+    [
+      "格个体",
+      8
+    ],
+    [
+      "个体值",
+      8
+    ],
+    [
+      "体值推",
+      8
+    ],
+    [
+      "值推荐",
+      8
+    ],
+    [
+      "性格个体",
+      8
+    ],
+    [
+      "格个体值",
+      8
+    ],
+    [
+      "个体值推",
+      8
+    ],
+    [
+      "体值推荐",
+      8
+    ],
+    [
+      "为啥",
+      7
+    ],
+    [
+      "体验",
+      6
+    ],
+    [
+      "不能",
+      6
+    ],
+    [
+      "国世",
+      6
+    ],
+    [
+      "王国世",
+      6
+    ],
+    [
+      "国世界",
+      6
+    ],
+    [
+      "克王国世",
+      6
+    ],
+    [
+      "王国世界",
+      6
+    ],
+    [
+      "的宠",
+      5
+    ]
+  ],
+  "complaints": [],
+  "memes": [],
+  "top_positive": [
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "好拉胯，没有玩下去的欲望，玩的比上班还不耐烦，玩着玩着就很想滑掉后台去刷视频，感受不到一点乐趣，你是大世界，为啥蛋不在世界里面孵化，自己的宠物全在背包里，看着就是一堆数据，不能有一个地方专门放精灵球，或者是自己建造一个动物园，把自己捕捉的宠物放里面，还有就是野外宠物太密集了，遍地都是的东西谁有去抓的欲望，为啥不能自己种树，说的是开放世界，实际上除了跑，和对话过剧情，其他还能干啥，为啥精灵不能自己战斗，为啥一定要玩家进入对战场景，还有最重要的一点，宠物和平做的都比你们好，人家宠物能听懂人话，现在Ai多发达，为啥不给宠物植入Ai，为啥战斗不能语音指挥宠物，你的宠物交互就是往宝箱丢精灵，往矿上丢精灵",
+      "score": 2,
+      "author": "龙",
+      "likes": 2,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48185444",
+      "published_at": "2026-03-28T11:57:22"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "💎资源获取：刚开服几天，还是资源比较少，建议多出点或者多给几个获取资源的方式。☄️成长体验：很有意思，不用氪金也能玩，技能组合有搭配，有些地方需要思考技能组合才能打过比如翼王🎮可玩性：可玩性还是很多的，开服几天都在肝等级，可以pvp，pve，休闲可休闲，肝的人也可以狠狠肝，希望玩法能够多出一点，这样再过几十天到了后期也不会无聊🌃画面音乐：画面，音乐都特别好，地图做的很用心，居然能和页游的对上，比如方位背景，音乐也是免费获得，感觉回到了十几年前。总结:不用氪金也能玩，太好评了，不逼氪",
+      "score": 5,
+      "author": "逍遥黎明",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48185512",
+      "published_at": "2026-03-28T12:04:35"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "水泡壳 性格个体值推荐",
+      "content": "",
+      "author": "府若",
+      "views": 0,
+      "likes": 1,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1NFXVBLE2o",
+      "bvid": "BV1NFXVBLE2o",
+      "published_at": "2026-03-28T12:04:02"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "嘟嘟锅 性格个体值推荐",
+      "content": "",
+      "author": "府若",
+      "views": 0,
+      "likes": 1,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1NFXVBLEB2",
+      "bvid": "BV1NFXVBLEB2",
+      "published_at": "2026-03-28T12:03:59"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "捉宠原神？氪金宝可梦？两天38h体验告诉你，洛克王国没怎么不堪每当我在回望自己儿时的游戏时光，总会有一些缺失的记忆，我是什么时候开始玩这款游戏？又是什么时候最后一次将他打开？在我童年游戏生涯中，4399占据了绝大部分时光，而其中一款叫《洛克王国》的游戏，正如前面所说，我不知道是什么时候我进入了这个世界，也忘记了我什么时候关闭了他，再也没有打开。我唯一记得的是，自己有一只没有升到100级的宠物罗隐，他是我最高级的宠物，也是我儿时无法挽回的遗憾。童年无法弥补，但洛克王国却迎来了新生。最近，《洛克王国：世界》正式上线了，作为童年经典游戏的新作品，无论如何我都得试试。经过了两天38h的高强度体验，我回头再看看游戏的风评，不由得无奈，于是便有了这篇测评，让这篇测评来告诉大家，《洛克王国：世界》虽然并不完美，但也没那么不堪！《洛克王国：世界》的主要玩法为剧情体验、大世界探索、宠物收集、精灵对战。剧情上，虽然主线配音全覆盖，但在叙事上还是偏子供向，没有黑深残，没有晦涩难懂的文本，也没有巨大的转折。可能对于大部分玩家而言，这样的剧情也会显得不太有趣，让人昏昏欲睡。但我认为这样的设计是合理的，《洛克王国",
+      "score": 4,
+      "author": "井三姨",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48185450",
+      "published_at": "2026-03-28T11:57:42"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "洛手童年经典五大神宠，保姆级点位教学！",
+      "content": "-",
+      "author": "捉捉洛克王国",
+      "views": 0,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV14FXVBLE2J",
+      "bvid": "BV14FXVBLE2J",
+      "published_at": "2026-03-28T12:05:29"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "花影羚羊 性格个体值推荐",
+      "content": "",
+      "author": "府若",
+      "views": 0,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1NFXVBLEQK",
+      "bvid": "BV1NFXVBLEQK",
+      "published_at": "2026-03-28T12:04:13"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "蹦床松鼠 性格个体值推荐",
+      "content": "",
+      "author": "府若",
+      "views": 0,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1xFXVBLEXm",
+      "bvid": "BV1xFXVBLEXm",
+      "published_at": "2026-03-28T12:04:11"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "蹦蹦花 性格个体值推荐",
+      "content": "",
+      "author": "府若",
+      "views": 0,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1KFXVBLEJY",
+      "bvid": "BV1KFXVBLEJY",
+      "published_at": "2026-03-28T12:04:00"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "晶石蜗 性格个体值推荐",
+      "content": "",
+      "author": "府若",
+      "views": 0,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1NFXVBLEq2",
+      "bvid": "BV1NFXVBLEq2",
+      "published_at": "2026-03-28T12:03:52"
+    }
+  ],
+  "top_negative": [
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "为啥到晚上就卡",
+      "score": 3,
+      "author": "JYL",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48185533",
+      "published_at": "2026-03-28T12:07:21"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "这剧情对话不给跳过是真的啥福，本来剧情就又臭又长还逼着你看，做任务看十几分钟剧情直接玩游戏的想法都没有了。学什么不好去学剧情不能跳过，怎么你洛克王国的剧情也是人生，不能跳过？",
+      "score": 1,
+      "author": "_____葬〆",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48185473",
+      "published_at": "2026-03-28T12:01:05"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "洛克王国手游真好本来还以为也是融合抽卡卡池的那种活不长，结果完全没有卡池最多就是有个炫彩随机蛋，完全不影响零氪党的体验，给我的感官很还原小时候玩的那类页游体验感。这是一种新的玩法融合，以后再出的抓宠大世界框架模式必然会以他为模板",
+      "score": 5,
+      "author": "山の翁",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48185462",
+      "published_at": "2026-03-28T11:59:24"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "我的刀盾！比比拉布！你汪姿态1修改追梗！愚人节70元随机保底！克格汪克格莫值6元！手游砍特效局内动作语音上线坑！越塔潘森榴莲龙龟朝九晚五牛头！7.0版本英雄联盟",
+      "content": "-",
+      "author": "LOL仅此而已",
+      "views": 1,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1NFXVBLEC8",
+      "bvid": "BV1NFXVBLEC8",
+      "published_at": "2026-03-28T12:06:55"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+======================================================
+🎮 AI Game Dev & Vibe Coding Digest
+⏰ 2026-03-16 13:32:56
+======================================================
+📡 KM 数据需要更新，请通过 Knot/OpenClaw 执行 KM MCP 抓取
+   运行：python3 /Users/dada/vibe-coding-digest/fetch_km_mcp.py
+   （或在 Knot 中触发 KM 抓取任务）
+
+
+🚀 启动 digest.py...
+  ⚠️  请求失败 https://api.github.com/search/repositories: 403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=ai+agent+ide+pushed%3A%3E2026-03-09&sort=stars&order=desc&per_page=5
+  ⚠️  请求失败 https://api.github.com/search/repositories: 403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=cursor+ai+extension+pushed%3A%3E2026-03-09&sort=stars&order=desc&per_page=5
+=================================================================
+🎮 AI Game Dev & Vibe Coding Digest v3.0
+⏰ 2026-03-16 13:32:57
+🔍 抓取过去 24 小时 | 双模块架构
+📋 模块一：AI+游戏（严格平台顺序）| 模块二：AI通用
+=================================================================
+📡 [1/9] 抓取 KM（腾讯内部）...
+  ⚠️  KM 数据已有 2526 分钟，建议重新抓取
+  ✅ KM 加载 20 条（M1:7 M2:13）
+📡 [2/9] 抓取微信公众号（搜狗微信搜索）...
+  ✅ 微信公众号 获取 14 条（M1:5 M2:9）
+📡 [3/9] 抓取 X/Twitter（Playwright）...
+    ✅ [vibe coding game] 获取 13 条推文
+    ✅ [vibe coding unity] 获取 13 条推文
+    ✅ [vibe coding unreal] 获取 14 条推文
+    ✅ [ai game dev] 获取 9 条推文
+    ✅ [ai gamedev] 获取 8 条推文
+    ✅ [cursor unity] 获取 11 条推文
+    ✅ [cursor unreal] 获取 12 条推文
+    ✅ [cursor godot] 获取 14 条推文
+    ✅ [llm game dev] 获取 13 条推文
+    ✅ [ai indie game] 获取 10 条推文
+    ✅ [ai npc game] 获取 10 条推文
+    ✅ [vibe coding] 获取 13 条推文
+    ✅ [cursor ide] 获取 13 条推文
+    ✅ [claude code] 获取 15 条推文
+    ✅ [windsurf ide] 获取 11 条推文
+    ✅ [agentic coding] 获取 15 条推文
+    ✅ [ai coding assistant] 获取 10 条推文
+  ✅ X/Twitter 获取 131 条（M1:40 M2:91）
+📡 [4/9] 抓取 Reddit (RSS)...
+  ✅ Reddit 获取 108 条（M1:91 M2:17）
+📡 [5/9] 抓取 HackerNews...
+  ✅ HackerNews 获取 19 条（M1:1 M2:18）
+📡 [6/9] 抓取 Dev.to...
+  ✅ Dev.to 获取 8 条（M1:0 M2:8）
+📡 [7/9] 抓取 RSS 订阅源...
+    • 少数派（zh）: 1 条
+    • 36kr（zh）: 2 条
+    • Simon Willison's Blog（en）: 1 条
+    • DEV.to AI（en）: 2 条
+    • DEV.to GameDev（en）: 1 条
+  ✅ RSS 共获取 7 条
+📡 [8/9] 抓取 ProductHunt...
+  ✅ ProductHunt 获取 0 条
+📡 [9/9] 抓取 GitHub Trending...
+  ✅ GitHub 获取 21 条（M1:2 M2:19）
+
+📊 抓取完成（去重后共 124 条）
+   🎮 模块一 AI+游戏: 61 条
+   🤖 模块二 AI通用:  63 条
+
+   平台分布：
+   • X/Twitter: 30 条
+   • KM: 20 条
+   • HackerNews: 15 条
+   • GitHub: 15 条
+   • 微信公众号: 14 条
+   • Dev.to: 8 条
+   • Reddit r/Unity3D: 7 条
+   • RSS: 7 条
+   • Reddit r/godot: 4 条
+   • Reddit r/unrealengine: 4 条
+
+📄 报告已保存：/Users/dada/vibe-coding-digest/digest_2026-03-16.md
+💾 原始数据已保存：/Users/dada/vibe-coding-digest/digest_2026-03-16_raw.json
+
+=================================================================
+✅ 完成！通知摘要预览：
+=================================================================
+🎮 AI游戏开发 & Vibe Coding 日报 [03/16]
+共 124 条 | 🎮模块一:61条 🤖模块二:63条
+
+── 🎮 AI+游戏 精选 ──
+• AI in CrashSight —— CrashClaw：游戏异常崩溃问题一站式解决方案
+  KM | https://km.woa.com/articles/show/654678?jumpfrom=kmmcp
+• 王者荣耀灵宝日记：会写日记的灵宝，如何让玩家追着晒？
+  KM | https://km.woa.com/articles/show/654669?jumpfrom=kmmcp
+• 如何让AI分工帮我做游戏（二）
+  KM | https://km.woa.com/articles/show/654685?jumpfrom=kmmcp
+
+── 🤖 AI通用 精选 ──
+• 万字长文，爆肝如何写好Skill
+  KM
+• Prompt 告诉 Agent 做什么，Harness 告诉 Agent 做对了没有
+  KM
+
+
+======================================================
+✅ 完成！报告已保存到 /Users/dada/vibe-coding-digest/digest_2026-03-16.md
+======================================================

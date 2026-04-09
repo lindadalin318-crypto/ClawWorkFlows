@@ -1,0 +1,476 @@
+{
+  "game": "洛克王国：世界",
+  "analyzed_at": "2026-04-08T12:05:01.157094",
+  "total_items": 68,
+  "platform_stats": {
+    "taptap_reviews": {
+      "total": 8,
+      "positive": 2,
+      "negative": 3,
+      "neutral": 3,
+      "sentiment_ratio": {
+        "positive_pct": 25.0,
+        "negative_pct": 37.5
+      }
+    },
+    "bilibili": {
+      "total": 20,
+      "positive": 5,
+      "negative": 1,
+      "neutral": 14,
+      "sentiment_ratio": {
+        "positive_pct": 25.0,
+        "negative_pct": 5.0
+      }
+    },
+    "nga": {
+      "total": 40,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 40,
+      "sentiment_ratio": {
+        "positive_pct": 0.0,
+        "negative_pct": 0.0
+      }
+    }
+  },
+  "sentiment_overview": {
+    "total": 68,
+    "positive": 7,
+    "negative": 4,
+    "neutral": 57,
+    "overall": "🟡 舆情中性，需持续观察",
+    "positive_pct": 10.3,
+    "negative_pct": 5.9
+  },
+  "hot_topics": [
+    {
+      "topic": "精灵系统",
+      "count": 9,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295392",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295341",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295242",
+          "sentiment": "positive"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295203",
+          "sentiment": "positive"
+        },
+        {
+          "title": "从入门到时入千万的最新自爆流配队玩法",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1eED6BFEhZ",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "PVP/战斗",
+      "count": 8,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295392",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295363",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295341",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295253",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295236",
+          "sentiment": "negative"
+        }
+      ]
+    },
+    {
+      "topic": "剧情/世界观",
+      "count": 5,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295363",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295345",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295203",
+          "sentiment": "positive"
+        },
+        {
+          "title": "【企鹅带带北极熊录播】4月7日中午 洛克王国世界",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1hjDBBXEoC",
+          "sentiment": "neutral"
+        },
+        {
+          "title": "火神暴力推队技能搭配 无脑上分 一个视频学会［洛克王国世界］",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1GQDeBVEez",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "topic": "攻略/玩法",
+      "count": 4,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295363",
+          "sentiment": "negative"
+        },
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295236",
+          "sentiment": "negative"
+        },
+        {
+          "title": "感觉你是那种一口气攻略两隐藏秘境又一不小心拿到三颗完美精灵蛋的那种人",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1rFDBBeEEK",
+          "sentiment": "positive"
+        },
+        {
+          "title": "【徐静雨】聊好兄弟郭艾伦被骗，准备才加鬼叔举办的洛克王国PVP比赛？真正的高手，不看攻略！",
+          "source": "B站",
+          "url": "https://www.bilibili.com/video/BV1XrDrBAEv6",
+          "sentiment": "negative"
+        }
+      ]
+    },
+    {
+      "topic": "童年回忆",
+      "count": 1,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295363",
+          "sentiment": "negative"
+        }
+      ]
+    },
+    {
+      "topic": "更新/活动",
+      "count": 1,
+      "items": [
+        {
+          "title": "",
+          "source": "TapTap",
+          "url": "https://www.taptap.cn/review/48295203",
+          "sentiment": "positive"
+        }
+      ]
+    }
+  ],
+  "top_keywords": [
+    [
+      "克王",
+      10
+    ],
+    [
+      "洛克王",
+      10
+    ],
+    [
+      "克王国",
+      10
+    ],
+    [
+      "洛克王国",
+      10
+    ],
+    [
+      "技能",
+      8
+    ],
+    [
+      "玩家",
+      7
+    ],
+    [
+      "精灵",
+      7
+    ],
+    [
+      "就是",
+      6
+    ],
+    [
+      "二游",
+      6
+    ],
+    [
+      "异色",
+      6
+    ],
+    [
+      "有一",
+      5
+    ],
+    [
+      "点点",
+      5
+    ],
+    [
+      "自爆",
+      4
+    ],
+    [
+      "一天",
+      4
+    ],
+    [
+      "我就",
+      4
+    ],
+    [
+      "体验",
+      4
+    ],
+    [
+      "是二",
+      4
+    ],
+    [
+      "是二游",
+      4
+    ],
+    [
+      "金币",
+      4
+    ],
+    [
+      "那种",
+      4
+    ],
+    [
+      "太太",
+      4
+    ],
+    [
+      "点点点",
+      4
+    ],
+    [
+      "这游",
+      3
+    ],
+    [
+      "大家",
+      3
+    ],
+    [
+      "刷钱",
+      3
+    ],
+    [
+      "小时",
+      3
+    ],
+    [
+      "这游戏",
+      3
+    ],
+    [
+      "宝可",
+      3
+    ],
+    [
+      "可梦",
+      3
+    ],
+    [
+      "知道",
+      3
+    ]
+  ],
+  "complaints": [],
+  "memes": [],
+  "top_positive": [
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "太恐怖了！点进游戏一不小心熬夜三天！！【鸽鸽/洛克王国】",
+      "content": "玩个游戏激发了我的表达欲—— 这个游戏实在是太太太太太好玩了！！！ 就是有一点点点点点点肝 没有10点宵禁后的洛克王国...灯火通明 脚本/配音/后期/绘画：鸽鸽",
+      "author": "鸽一品",
+      "views": 512,
+      "likes": 55,
+      "danmaku": 1,
+      "url": "https://www.bilibili.com/video/BV1a5DiBjE4x",
+      "bvid": "BV1a5DiBjE4x",
+      "published_at": "2026-04-08T12:00:00"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "盘点洛克王国中对战热门精灵推荐",
+      "content": "-",
+      "author": "手游叶梓",
+      "views": 85,
+      "likes": 4,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1XrDrBAExG",
+      "bvid": "BV1XrDrBAExG",
+      "published_at": "2026-04-08T11:59:54"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "冷知识tap下载不属于官网下载，因为你领不了官网下载的专属精灵，集满不了图鉴，强迫症玩家慎入",
+      "score": 2,
+      "author": "辉の",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48295242",
+      "published_at": "2026-04-08T11:43:47"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "整体是非常不错的，但不推荐玩抓异色，说是没抽卡异色如果黑的话一个也遇不到，魔方神人死样子，洛克币不够不给你筷子，给你更大的碗，探索，抓精灵好玩，但是主线还有活动更新是真的满",
+      "score": 3,
+      "author": "(づ￣ ³￣づ）",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48295203",
+      "published_at": "2026-04-08T11:39:49"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "免费炫彩蛋让我看看会fu....谢谢想放生",
+      "content": "",
+      "author": "酣睡之乐",
+      "views": 1,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1XzDrBeEkx",
+      "bvid": "BV1XzDrBeEkx",
+      "published_at": "2026-04-08T12:01:51"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "感觉你是那种一口气攻略两隐藏秘境又一不小心拿到三颗完美精灵蛋的那种人",
+      "content": "感觉你是那种一口气攻略两隐藏秘境又一不小心拿到1个完美呼呼猪蛋＋2个完美雪娃娃蛋+3个宝箱＋8只污染精灵和其他豪华奖励的那种人",
+      "author": "悠厨",
+      "views": 113,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1rFDBBeEEK",
+      "bvid": "BV1rFDBBeEEK",
+      "published_at": "2026-04-08T12:00:00"
+    },
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "洛克王国的日常——每天换一套~",
+      "content": "好喜欢裁缝店里的新衣服~=w=",
+      "author": "中二的结界_Ruby",
+      "views": 1,
+      "likes": 0,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1L1DeB7EJ3",
+      "bvid": "BV1L1DeB7EJ3",
+      "published_at": "2026-04-08T12:00:00"
+    }
+  ],
+  "top_negative": [
+    {
+      "source": "B站",
+      "type": "video",
+      "title": "【徐静雨】聊好兄弟郭艾伦被骗，准备才加鬼叔举办的洛克王国PVP比赛？真正的高手，不看攻略！",
+      "content": "",
+      "author": "带魔王Official",
+      "views": 63,
+      "likes": 6,
+      "danmaku": 0,
+      "url": "https://www.bilibili.com/video/BV1XrDrBAEv6",
+      "bvid": "BV1XrDrBAEv6",
+      "published_at": "2026-04-08T11:58:39"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "真搞笑说什么破坏pvp平衡，我就想问按你们现在正常pvp排位来一局能有十万吗😊，大家开发的自爆流刷钱首先不破坏排位平衡开的匹配，其次刷的前提是浪费大量时间和精力，你说听取建议设置上限每天1500w金币然后又不允许玩家自爆刷钱我就想问你打一天排位能打到一半吗😅破规矩搞得现在匹配环境反而更让人反感，全是诈骗和阴人的，要不然就是没阴成功举报的😅贵游在如何折磨玩家反正是有一套的，奇丽花那个我就更不想说了，开连点器挂花的咸鱼接单刷花的，这就是你们所谓的维持游戏环境是吗，页游当初玩的时候各种辅助你们敢封？手游火了就开始学某游坚持自己理念，还开放自由，笑死我了",
+      "score": 1,
+      "author": "万律",
+      "likes": 1,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48295236",
+      "published_at": "2026-04-08T11:43:15"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "游戏本身没什么问题可是策划一而再再而三的恶心玩家导致这游戏在我心里已经是一坨屎了，PVP大家为什么自爆刷钱，就是因为你通货膨胀1.5W一个高级球啊，不刷哪来的球抓精灵，你又不让刷又设置获取上限，就算刷花也要八九个小时，人不上班不上课没事不吃饭一天二十四小时玩你洛克吗?",
+      "score": 1,
+      "author": "调皮酱",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48295392",
+      "published_at": "2026-04-08T12:01:29"
+    },
+    {
+      "source": "TapTap",
+      "type": "review",
+      "title": "",
+      "content": "宝可梦我的印象还停留在像素那会，所以后来那些我就不知道了，洛克王国小时候也玩过，只不过三分钟热度，后来也没玩了，体验也体验了，我看到的好评大多数还真的是宝可梦玩家顺带踩一脚GF（好像是叫这个），差评大多同质化，应该是二游玩家，因为我看到的都是二游那套想速成阵容装备啥的习惯导致的差评，你要是二游玩的多就能看出来，喷剧情幼稚这块我觉得有点扯了，页游时就是子供向游戏，然后我也上班，但是就我体验来说这就是个休闲游戏，我不知道别人怎么会玩急脸了。这游戏就我体验，褒姒不太可能，但是热度是肯定会降的，休闲游戏不会像二游或者纯竞技游戏一样，一直保持高热度的。因为没什么时间，我平常也不关注什么社区节奏之类的，但是二游社区恶臭这块人尽皆知，我是真心希望不要把二游社区搬过来，玩之前我都没想到这游戏受众这么广，我以为就情怀党或者宝可梦玩家会玩一玩。游戏是个好游戏，褒贬只能说看受众吧",
+      "score": 5,
+      "author": "疼鸭",
+      "likes": 0,
+      "comments": 0,
+      "url": "https://www.taptap.cn/review/48295363",
+      "published_at": "2026-04-08T11:57:49"
+    }
+  ]
+}

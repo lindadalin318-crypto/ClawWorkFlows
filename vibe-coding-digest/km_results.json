@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-04-09T11:40:00+08:00",
+  "articles": [
+    {
+      "title": "超越 OpenClaw 13.4%：LightClawACE 的六层记忆做对了什么？",
+      "url": "https://km.woa.com/articles/show/657081?jumpfrom=kmmcp",
+      "author": "eileennchen",
+      "tags": "memory | 记忆 | Session | OpenClaw | lightclaw",
+      "read_count": 99,
+      "hot_value": 0,
+      "km_recommended": true,
+      "km_headline": true,
+      "kbar": "#34614 腾讯云主机",
+      "summary": "深入解析LightClawACE六层记忆架构，在LongMemEval基准测试中以51.0%超越OpenClaw的37.6%，领先13.4个百分点。六层分离架构实现记忆沉淀、压缩、召回、更新、降级与治理的系统化能力。",
+      "ai_summary": "本文深入解析了腾讯自研LightClawACE的六层记忆架构，在LongMemEval基准（500题）上以51.0%总分超越OpenClaw的37.6%，整体领先13.4个百分点。优势集中在用户事实记忆（90.0% vs 51.4%）、用户偏好记忆（43.3% vs 3.3%）、知识更新（64.1% vs 38.5%）等关键维度。LightClawACE的核心设计包括：记忆流动链路（对话→日记忆→长期记忆持续演进）、受控压缩流程（多阶段压缩减少语义塌缩）、装配式召回（BM25+Vector混合检索动态装配上下文）、降级机制保障（分层fallback策略）、六层分离架构（运行时缓冲/短期摘要/中期记忆/长期记忆/检索索引/结构化事实）。将记忆从孤立功能提升为系统化能力，实现记得更稳，更新更准，召回更对。",
+      "module": "M2",
+      "created_at": "2026-04-09T10:39:07+08:00"
+    },
+    {
+      "title": "基于Codebuddy Agent SDK构建数据分析Agent初探",
+      "url": "https://km.woa.com/articles/show/657067?jumpfrom=kmmcp",
+      "author": "towwen",
+      "tags": "agent | codebuddy | 数据分析 | 研效",
+      "read_count": 29,
+      "hot_value": 0,
+      "km_recommended": false,
+      "km_headline": false,
+      "kbar": "",
+      "summary": "基于Codebuddy Agent SDK构建广告转化数据质量分析Agent的完整实践，技术选型对比后得出无代码选Knot，全代码选Codebuddy Agent SDK的结论，实现WebUI/企微机器人/个人Agent三种交互方式。",
+      "ai_summary": "本文介绍基于Codebuddy Agent SDK构建广告转化数据质量分析Agent的完整实践。深入调研Claude Code技术架构后，明确自主智能体与工作流智能体的区别，理解Agentic Loop核心机制（收集上下文→执行动作→验证结果）。司内方案选型结论：无代码构建选Knot，全代码构建选Codebuddy Agent SDK（Claude Code复刻版）。系统架构支持WebUI、企微机器人和个人Agent三种交互方式，技术栈为Python版codebuddy-agent-sdk + FastAPI + Next.js，集成StarRocks/Clickhouse等OLAP数据源及DeepSeek模型服务，通过MCP协议连接数仓，利用Skills封装业务知识。",
+      "module": "M2",
+      "created_at": "2026-04-09T00:51:18+08:00"
+    }
+  ]
+}
