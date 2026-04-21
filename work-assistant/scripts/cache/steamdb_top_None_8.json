@@ -1,0 +1,93 @@
+{
+  "ts": "2026-04-09T13:17:43.993966",
+  "data": [
+    {
+      "rank": "1",
+      "name": "Counter-Strike 2",
+      "appid": "730",
+      "current_players": "629369",
+      "avg_30d": "",
+      "peak": "1717624",
+      "url": "https://store.steampowered.com/app/730",
+      "steamdb": "https://steamdb.info/app/730/",
+      "steamcharts": "https://steamcharts.com/app/730"
+    },
+    {
+      "rank": "2",
+      "name": "Dota 2",
+      "appid": "570",
+      "current_players": "279099",
+      "avg_30d": "",
+      "peak": "698281",
+      "url": "https://store.steampowered.com/app/570",
+      "steamdb": "https://steamdb.info/app/570/",
+      "steamcharts": "https://steamcharts.com/app/570"
+    },
+    {
+      "rank": "3",
+      "name": "PUBG: BATTLEGROUNDS",
+      "appid": "578080",
+      "current_players": "206269",
+      "avg_30d": "",
+      "peak": "1290870",
+      "url": "https://store.steampowered.com/app/578080",
+      "steamdb": "https://steamdb.info/app/578080/",
+      "steamcharts": "https://steamcharts.com/app/578080"
+    },
+    {
+      "rank": "4",
+      "name": "Slay the Spire 2",
+      "appid": "2868840",
+      "current_players": "175063",
+      "avg_30d": "",
+      "peak": "572332",
+      "url": "https://store.steampowered.com/app/2868840",
+      "steamdb": "https://steamdb.info/app/2868840/",
+      "steamcharts": "https://steamcharts.com/app/2868840"
+    },
+    {
+      "rank": "5",
+      "name": "Bongo Cat",
+      "appid": "3419430",
+      "current_players": "121537",
+      "avg_30d": "",
+      "peak": "168134",
+      "url": "https://store.steampowered.com/app/3419430",
+      "steamdb": "https://steamdb.info/app/3419430/",
+      "steamcharts": "https://steamcharts.com/app/3419430"
+    },
+    {
+      "rank": "6",
+      "name": "FiveM",
+      "appid": "2676230",
+      "current_players": "107161",
+      "avg_30d": "",
+      "peak": "212020",
+      "url": "https://store.steampowered.com/app/2676230",
+      "steamdb": "https://steamdb.info/app/2676230/",
+      "steamcharts": "https://steamcharts.com/app/2676230"
+    },
+    {
+      "rank": "7",
+      "name": "Crimson Desert",
+      "appid": "3321460",
+      "current_players": "97392",
+      "avg_30d": "",
+      "peak": "275859",
+      "url": "https://store.steampowered.com/app/3321460",
+      "steamdb": "https://steamdb.info/app/3321460/",
+      "steamcharts": "https://steamcharts.com/app/3321460"
+    },
+    {
+      "rank": "8",
+      "name": "Apex Legends™",
+      "appid": "1172470",
+      "current_players": "86962",
+      "avg_30d": "",
+      "peak": "287202",
+      "url": "https://store.steampowered.com/app/1172470",
+      "steamdb": "https://steamdb.info/app/1172470/",
+      "steamcharts": "https://steamcharts.com/app/1172470"
+    }
+  ]
+}

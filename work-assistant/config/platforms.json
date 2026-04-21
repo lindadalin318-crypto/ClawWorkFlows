@@ -1,0 +1,68 @@
+{
+  "_comment": "各平台账号配置文件，敏感信息请勿提交到 Git",
+  "x_twitter": {
+    "enabled": true,
+    "cookie_source": "../../vibe-coding-digest/accounts.db",
+    "cookie_json":   "../../vibe-coding-digest/x_cookies.json",
+    "username": "seanyyao",
+    "note": "复用 vibe-coding-digest 的 X cookie，无需重新登录"
+  },
+  "reddit": {
+    "enabled": true,
+    "api_mode": "rss",
+    "note": "RSS 无需鉴权，直接抓取 /r/xxx.rss"
+  },
+  "hacker_news": {
+    "enabled": true,
+    "api_mode": "api",
+    "base_url": "https://hacker-news.firebaseio.com/v0",
+    "note": "官方 API，无需鉴权"
+  },
+  "steam": {
+    "enabled": true,
+    "api_mode": "api",
+    "api_key": "",
+    "note": "查询游戏数据/新趋势用；api_key 留空则使用公开接口"
+  },
+  "steamdb": {
+    "enabled": true,
+    "api_mode": "scrape+api",
+    "note": "steamdb.info 被 Cloudflare 保护，使用 SteamCharts + Steam 官方 API 组合替代；直链 https://steamdb.info/app/{appid}/ 仍可供用户手动访问",
+    "data_sources": {
+      "top_players": "https://steamcharts.com/top (HTML解析)",
+      "peak_ranking": "https://api.steampowered.com/ISteamChartsService/GetMostPlayedGames/v1/",
+      "deals_and_new": "https://store.steampowered.com/api/featuredcategories/",
+      "app_detail": "https://store.steampowered.com/api/appdetails + https://steamcharts.com/app/{id}",
+      "search": "https://store.steampowered.com/api/storesearch/"
+    }
+  },
+  "itch_io": {
+    "enabled": true,
+    "api_mode": "rss",
+    "note": "独立游戏平台，RSS 直接抓取"
+  },
+  "youtube": {
+    "enabled": true,
+    "api_mode": "rss",
+    "note": "频道/话题 RSS，无需 API Key"
+  },
+  "km": {
+    "enabled": true,
+    "api_mode": "mcp",
+    "note": "腾讯内部 KM，通过 mcporter-internal 调用"
+  },
+  "bilibili": {
+    "enabled": true,
+    "api_mode": "api",
+    "note": "B站公开 API，无需鉴权可查热搜/分区热门"
+  },
+  "xiaohongshu": {
+    "enabled": false,
+    "api_mode": "playwright_cookie",
+    "profile_dir": "data/xhs_profile",
+    "cookie_file": "data/xhs_cookies.json",
+    "note": "需要先运行 python3 scripts/xhs_inject_cookies.py 完成 Cookie 注入；Cookie 有效期约 30-90 天",
+    "required_cookies": ["a1", "web_session", "webId"],
+    "setup_cmd": "python3 scripts/xhs_inject_cookies.py"
+  }
+}

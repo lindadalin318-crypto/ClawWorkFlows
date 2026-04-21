@@ -1,0 +1,59 @@
+{
+  "ts": "2026-04-09T13:17:49.245443",
+  "data": [
+    {
+      "name": "Grand Theft Auto V 增强版",
+      "appid": "3240220",
+      "discount": 50,
+      "orig_price": "¥149",
+      "final_price": "¥74",
+      "url": "https://store.steampowered.com/app/3240220",
+      "steamdb": "https://steamdb.info/app/3240220/"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "appid": "1174180",
+      "discount": 75,
+      "orig_price": "¥279",
+      "final_price": "¥70",
+      "url": "https://store.steampowered.com/app/1174180",
+      "steamdb": "https://steamdb.info/app/1174180/"
+    },
+    {
+      "name": "异变金属",
+      "appid": "1866130",
+      "discount": 25,
+      "orig_price": "¥78",
+      "final_price": "¥58",
+      "url": "https://store.steampowered.com/app/1866130",
+      "steamdb": "https://steamdb.info/app/1866130/"
+    },
+    {
+      "name": "灰区战争",
+      "appid": "2479810",
+      "discount": 33,
+      "orig_price": "¥188",
+      "final_price": "¥126",
+      "url": "https://store.steampowered.com/app/2479810",
+      "steamdb": "https://steamdb.info/app/2479810/"
+    },
+    {
+      "name": "Resident Evil 4",
+      "appid": "2050650",
+      "discount": 60,
+      "orig_price": "¥198",
+      "final_price": "¥79",
+      "url": "https://store.steampowered.com/app/2050650",
+      "steamdb": "https://steamdb.info/app/2050650/"
+    },
+    {
+      "name": "Subnautica - 深海迷航",
+      "appid": "264710",
+      "discount": 75,
+      "orig_price": "¥149",
+      "final_price": "¥37",
+      "url": "https://store.steampowered.com/app/264710",
+      "steamdb": "https://steamdb.info/app/264710/"
+    }
+  ]
+}

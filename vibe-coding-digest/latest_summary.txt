@@ -1,16 +1,16 @@
-🎮 AI游戏开发 & Vibe Coding 日报 [04/09]
-共 112 条 | 🎮模块一:56条 🤖模块二:56条
+🎮 AI游戏开发 & Vibe Coding 日报 [04/21]
+共 122 条 | 🎮模块一:50条 🤖模块二:72条
 
 ── 🎮 AI+游戏 精选 ──
-• AI游戏开发&策划HC
-  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4docs5lJcOHvPf_olfSEf_ut9T0q3oY-lqXa8Fplpd9UtNMuJ5cdxbWnQLcGd-bHs3GRFlYBTCpM_OU8n4VygbhT9eeowtDzQup0vE5w-M39TnSz4efVQrOuic0RJa7N0h5pKj9IVJ1aK_iTtyLuNGumgQQ9nfJiHDTfEmsdcQ9Ani55YuWfDJa4rY0hO7-aUP21rkml2NLt7XarLIjuiNQL0Hr9Gyd3Q..&type=2&query=AI%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92&token=null
-• 独立游戏暴富第一步:Godot+MCP+AI开发环境搭建教程
-  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4docs5lJcOHDWjPLOvxKdTut9T0q3oY-lqXa8Fplpd9syVkaTWGLvOoWgetghVHBqJ10R4PZ8IxwblQ3Jmokb90EBpt4RAfaCUS-0VMkpl9EZ33l-MtCnUqUZzx5XumzxjMSy4UC5LAXXXZiKfmggiVztkfyx0lZhoV1qJxZIa0SC2Uy5Tppa0qmqk9LsiChcDpgtFrp3IcM_DZ2AzvMpDRtmyIGw2VAg..&type=2&query=Godot AI&token=null
-• CocosCreator 的 NPCAI架构实现
-  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4docs5lJcOH6g9Zu1fR2qjut9T0q3oY-lqXa8Fplpd9NO7-oq0GyuoPjTAqXSOvLuxjsszBXKvIomn0NrX9ZoW18CVihdjE1RT-8JwKmqyTCsgZWy8_EpjaDKuyqcSVO_BxZDzyAF71OwU4PvhtuIf-_OrtIPxSXYIt4Or_WZ96kwDAZs5Z5K9YMQCOJRUUHjbGL-Z5bpVMUBJXrRlTWtvyPfCoem7FzA..&type=2&query=Cocos AI&token=null
+• 国际跳棋:不止是游戏,更是让孩子在AI时代学会 “跳跃式思考” 的底层操作系统
+  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8IVpwxFmtoxS0rJDxPnZweB0F8D7n1-slqXa8Fplpd96HNL-jHNVNitmGIhBxEu1vwzaKvYj8qye6JTvfAeeJmjXx12sdZk4yrORH9uF_Xop4l01RjUx-Rx5tbzBWo6xh74NuCrZdsJKXhmz1agMVTFtcm921ecGpR1EYmnZxZ9DNVmWEGjy5JtR967ovSsusHVmSEeOzbVrYELlWYfivNj32-j2KiwUw..&type=2&query=%E6%B8%B8%E6%88%8FAI&token=E1BEB15275BA215B565319B9F66AC93D56098B9E69E6E8A2
+• 零基础用Godot做游戏:AI帮你写代码,Mac也能跑(附完整安装攻略)
+  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8IVpwxFmtoxljnoLOTE1YWB0F8D7n1-slqXa8Fplpd94HVgeGBZN8UbmJlowNu7eT6f14Ngx8RbU9eZHBsOh93_ciM-ebZ0xkxHGb8gVsgOuuP3OJ-zc8bUagocMlfledSQHoZbAAwsEoQKFsGP3U8Q7HMufdvCjtrUtQxGkduFnhryW3_NwYNaW8xmEIseTJR-Z84fw0g95AgG7tEE6cRFH6In5Ei3zg..&type=2&query=Godot AI&token=E1BED47588213C242A2D64C488A07B422B8E87AF69E6E8A7
+• ＂NPC活了!＂2026年AINPC颠覆性进化:从＂单纯的剧本执行机＂ → 升级为＂拥有记忆的智能体＂
+  微信公众号 | http://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8IVpwxFmtox9XJnffY1CEKB0F8D7n1-slqXa8Fplpd9Zr3T5E4AvGbof2p_DCkGKsP4OleJ4E3SmRORv5AHKJC5n5fJf1EJXRrjHf3bOC5SR72LSIY7cn2crkITOO6SVv_MyzSFLFn5Q_PTRVAWRrABn0mk0bM0WDfn3bHKB1PtssolEUKesrOOaR09yxU1CeBBuu36qahFo_66s5fAwXLy08OLTBhW0A..&type=2&query=AI NPC&token=E1BF0A12834FD4AFA1A6EE4F05ACA2D0A1CE9A2B69E6E8B0
 
 ── 🤖 AI通用 精选 ──
-• ClaudeCode使用
-  微信公众号
-• 全球最强AI代码助手源码泄露!连夜拆解后,我发现了这6个颠覆认知的设计秘密
+• 当你把 Figma Make 当作设计稿和代码之间的桥梁，那么你就会得到一个严格遵循设计方案的画图圣手和 UI…
+  KM
+• 卖AI编程工具的公司,自己写的代码是这样的
   微信公众号

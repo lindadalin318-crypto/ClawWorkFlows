@@ -1,0 +1,45 @@
+{
+  "ts": "2026-04-09T13:17:49.488557",
+  "data": [
+    {
+      "name": "University 33",
+      "appid": "4388920",
+      "discount": 30,
+      "price": "¥18",
+      "url": "https://store.steampowered.com/app/4388920",
+      "steamdb": "https://steamdb.info/app/4388920/"
+    },
+    {
+      "name": "Pluralys",
+      "appid": "3275440",
+      "discount": 0,
+      "price": "¥59",
+      "url": "https://store.steampowered.com/app/3275440",
+      "steamdb": "https://steamdb.info/app/3275440/"
+    },
+    {
+      "name": "末日水蚤实验室",
+      "appid": "3780030",
+      "discount": 0,
+      "price": "¥33",
+      "url": "https://store.steampowered.com/app/3780030",
+      "steamdb": "https://steamdb.info/app/3780030/"
+    },
+    {
+      "name": "破晓",
+      "appid": "3470610",
+      "discount": 15,
+      "price": "¥44",
+      "url": "https://store.steampowered.com/app/3470610",
+      "steamdb": "https://steamdb.info/app/3470610/"
+    },
+    {
+      "name": "Triste",
+      "appid": "4057600",
+      "discount": 0,
+      "price": "¥18",
+      "url": "https://store.steampowered.com/app/4057600",
+      "steamdb": "https://steamdb.info/app/4057600/"
+    }
+  ]
+}

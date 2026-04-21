@@ -1,0 +1,40 @@
+{
+  "ts": "2026-04-09T13:05:47.121225",
+  "data": [
+    {
+      "appid": "2483190",
+      "name": "极限竞速：地平线 6",
+      "discount": 0,
+      "price": 29800,
+      "url": "https://store.steampowered.com/app/2483190"
+    },
+    {
+      "appid": "3240220",
+      "name": "Grand Theft Auto V 增强版",
+      "discount": 50,
+      "price": 7450,
+      "url": "https://store.steampowered.com/app/3240220"
+    },
+    {
+      "appid": "2868840",
+      "name": "Slay the Spire 2",
+      "discount": 0,
+      "price": 8800,
+      "url": "https://store.steampowered.com/app/2868840"
+    },
+    {
+      "appid": "54029",
+      "name": "优先状态升级",
+      "discount": 0,
+      "price": 10300,
+      "url": "https://store.steampowered.com/app/54029"
+    },
+    {
+      "appid": "3321460",
+      "name": "红色沙漠",
+      "discount": 0,
+      "price": 26800,
+      "url": "https://store.steampowered.com/app/3321460"
+    }
+  ]
+}

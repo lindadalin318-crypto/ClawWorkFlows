@@ -1,0 +1,4 @@
+2026/04/09-14:37:52.108 a735 Creating DB /data/workspace/ClawWorkFlows/work-assistant/data/xhs_profile/Default/Local Storage/leveldb since it was missing.
+2026/04/09-14:37:52.115 a735 Reusing MANIFEST /data/workspace/ClawWorkFlows/work-assistant/data/xhs_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/09-14:37:59.821 a73b Level-0 table #5: started
+2026/04/09-14:37:59.827 a73b Level-0 table #5: 23348 bytes OK

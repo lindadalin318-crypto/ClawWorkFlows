@@ -1,0 +1,57 @@
+{
+  "ts": "2026-04-09T13:17:55.920851",
+  "data": [
+    {
+      "name": "赛博朋克 2077",
+      "appid": "1091500",
+      "developers": "CD PROJEKT RED",
+      "publishers": "CD PROJEKT RED",
+      "genres": "角色扮演",
+      "description": "《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。",
+      "release_date": "2020 年 12 月 9 日",
+      "price": "¥ 298.00",
+      "discount": 0,
+      "steam_url": "https://store.steampowered.com/app/1091500",
+      "steamdb_url": "https://steamdb.info/app/1091500/",
+      "steamcharts_url": "https://steamcharts.com/app/1091500",
+      "player_history": [
+        {
+          "month": "Last 30 Days",
+          "avg": "27942.38",
+          "peak": "+1096.3",
+          "gain": "+4.08%"
+        },
+        {
+          "month": "March 2026",
+          "avg": "26846.06",
+          "peak": "-1349.83",
+          "gain": "-4.79%"
+        },
+        {
+          "month": "February 2026",
+          "avg": "28195.89",
+          "peak": "-9114.20",
+          "gain": "-24.43%"
+        },
+        {
+          "month": "January 2026",
+          "avg": "37310.08",
+          "peak": "-1394.23",
+          "gain": "-3.60%"
+        },
+        {
+          "month": "December 2025",
+          "avg": "38704.31",
+          "peak": "12683.61",
+          "gain": "+48.74%"
+        },
+        {
+          "month": "November 2025",
+          "avg": "26020.70",
+          "peak": "-5671.57",
+          "gain": "-17.90%"
+        }
+      ]
+    }
+  ]
+}

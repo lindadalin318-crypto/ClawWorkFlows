@@ -1,0 +1,40 @@
+{
+  "ts": "2026-04-09T13:17:56.374634",
+  "data": [
+    {
+      "name": "浣熊推币机",
+      "appid": "3784030",
+      "price": "",
+      "url": "https://store.steampowered.com/app/3784030",
+      "steamdb": "https://steamdb.info/app/3784030/"
+    },
+    {
+      "name": "心跳弹珠台",
+      "appid": "3948580",
+      "price": "",
+      "url": "https://store.steampowered.com/app/3948580",
+      "steamdb": "https://steamdb.info/app/3948580/"
+    },
+    {
+      "name": "Passant: A Chess Roguelike",
+      "appid": "3353100",
+      "price": "",
+      "url": "https://store.steampowered.com/app/3353100",
+      "steamdb": "https://steamdb.info/app/3353100/"
+    },
+    {
+      "name": "Abalon: Roguelike Tactics CCG",
+      "appid": "1681840",
+      "price": "",
+      "url": "https://store.steampowered.com/app/1681840",
+      "steamdb": "https://steamdb.info/app/1681840/"
+    },
+    {
+      "name": "另一个肉鸽农场",
+      "appid": "2760790",
+      "price": "",
+      "url": "https://store.steampowered.com/app/2760790",
+      "steamdb": "https://steamdb.info/app/2760790/"
+    }
+  ]
+}
