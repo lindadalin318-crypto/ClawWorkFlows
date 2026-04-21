@@ -18,23 +18,19 @@ At any point during a run, the player's full deck is divided into two clearly se
 
 Cards flow between these two spaces throughout a run: when the Armory's Equip Load is reached, additional items the player owns are placed in the Inventory and sit out of the next battle; between battles, the player can freely rearrange which cards are promoted into the Armory and which are returned to the Inventory.
 
-We believe the preliminary rejection may have stemmed from the expectation that a deckbuilder must present cards as a traditional hand-and-pile UI (as in *Slay the Spire*). The Deck-Building Fest category, however, is much broader — *Backpack Battles*, *The Bazaar*, *Luck be a Landlord*, and others each interpret the "deck" concept in their own way. Our interpretation is an **Armory-driven deck of cards and items**, fully consistent with the Roguelike Deckbuilder genre.
+We believe the preliminary rejection may have stemmed from the expectation that a deckbuilder must present cards as a traditional hand-and-pile UI (as in *Slay the Spire*). The Deck-Building Fest category is much broader, and our interpretation — an **Armory-driven deck of cards and items** — is fully consistent with the Roguelike Deckbuilder genre.
 
-As a direct precedent, we would like to point to this public announcement from the *Backpack Battles* team confirming their participation in the 2024 Steam Deckbuilders Fest:
+As a direct precedent, *Backpack Battles* — which shares our exact structure (an Armory/Inventory of owned cards and items, a bounded active loadout, and run-long deck manipulation) — was accepted into the 2024 Steam Deckbuilders Fest and featured in the official *Balatro* × *Backpack Battles* "Can't Put It Down" bundle. The developer's own announcement:
 
 > https://x.com/TweetFurcifer/status/1772309379842273614
 
-*Backpack Battles* shares its core structure with *Fighting Rogue* — an inventory/Armory of owned cards and items, a bounded active loadout chosen from that pool, and run-long deck manipulation through acquisition, removal, and recombination. Since a game built on exactly this template was accepted into the Deckbuilders Fest (and featured in the official *Balatro* × *Backpack Battles* "Can't Put It Down" bundle), we believe *Fighting Rogue*, which follows the same template, should be evaluated under the same standard.
-
-We address each of the five eligibility criteria below, using the same terminology Steam uses.
+Since a game built on exactly this template was accepted, we believe *Fighting Rogue* should be evaluated under the same standard. We address each of the five eligibility criteria below, using the same terminology Steam uses.
 
 ---
 
 ### 1. "The ability to look at your current deck of cards at any point"
 
-*Fighting Rogue* lets the player inspect their **entire deck** — both the **Armory** (equipped, combat-active cards) and the **Inventory** (owned but unequipped cards) — **at any time**, during combat and outside of combat. The two views sit side-by-side in the same UI so the player always sees the full picture of what they own. Each card entry shows its name, rarity, Equip Load, full effect description, and whether it is currently equipped or sitting in the Inventory.
-
-This is functionally identical to how *Backpack Battles* lets players inspect both their active backpack and their full item stash at any point during a run.
+*Fighting Rogue* lets the player inspect their **entire deck** — both the **Armory** and the **Inventory** — **at any time**, during combat and outside of combat. The two views sit side-by-side in the same UI so the player always sees the full picture of what they own. Each card entry shows its name, rarity, Equip Load, full effect description, and whether it is currently equipped or sitting in the Inventory.
 
 ---
 
@@ -42,14 +38,11 @@ This is functionally identical to how *Backpack Battles* lets players inspect bo
 
 *Fighting Rogue* implements this criterion through the **Inventory** — a dedicated, always-visible space that holds every card the player owns but is *not* currently playing in combat.
 
-The mechanism works as follows:
-
-- The **Armory** has a hard **Equip Load** limit. Once that limit is reached, any additional item the player owns is automatically placed into the **Inventory**.
-- Cards sitting in the Inventory are **fully inert during battle** — they do not trigger, do not take up a slot, and do not influence combat in any way. They are, by definition, *not being played this round*.
-- The Inventory is displayed as a **separate, inspectable pile** alongside the Armory, so the player can see at all times exactly which of their cards are "in play" and which are "set aside".
+- Any card/item the player owns beyond the Armory's Equip Load cap is automatically held in the **Inventory**, and every card in the Inventory is **fully inert during battle** — it does not trigger, does not take up a slot, and does not influence combat in any way.
+- The Inventory is displayed as a **separate, inspectable pile** alongside the Armory, so the player can see at all times exactly which cards are "in play" and which are "set aside".
 - Between battles, cards move between the Inventory and the Armory as the player re-equips their loadout — exactly like cards cycling between a play zone and a discard pile.
 
-The criterion — *cards that are not currently being played are held in a visible, separate, inspectable pile* — is satisfied by the Inventory. This is the same relationship *Backpack Battles* establishes between items inside the active backpack and items sitting in the storage area outside it: the storage space is the pile of "cards not currently in play", and our Inventory performs the identical role.
+This is the same relationship *Backpack Battles* establishes between items inside the active backpack and items sitting in the storage area outside it: the storage space is the pile of "cards not currently in play", and our Inventory performs the identical role.
 
 ---
 
@@ -62,7 +55,7 @@ Between rounds, the player visits the shop and can freely:
 - **ADD cards** — spend gold to buy new cards/items from a rotating stock, which are added directly to the player's deck (Armory or Inventory).
 - **REMOVE cards** — sell any card/item they already own back to the shop for gold, permanently removing it from the deck.
 
-Because buy and sell are both available **every round**, the player's deck is constantly being reshaped throughout the run. A run starts with a small initial deck and typically ends with a completely different deck shape; two consecutive runs produce two visibly different decks. There is no stat-based leveling in *Fighting Rogue* — characters grow exclusively by adding and removing cards and items in their deck.
+Because buy and sell are both available **every round**, the player's deck is constantly being reshaped throughout the run. A run starts with a small initial deck and typically ends with a completely different deck shape; two consecutive runs produce two visibly different decks.
 
 This is the same round-by-round shop cadence used by *Backpack Battles*, and it is the textbook Roguelike Deckbuilder progression loop.
 
@@ -72,12 +65,10 @@ This is the same round-by-round shop cadence used by *Backpack Battles*, and it 
 
 *Fighting Rogue* enforces this through a hard **Equip Load** system on the Armory.
 
-- Only cards placed inside the **Armory** are played during a battle — the rest sit in the **Inventory** and are inert.
-- The Armory has a fixed **Equip Load** capacity, and **Equip Load is the direct cap on how many cards/items the player can put into the Armory each round.** Every card/item has its own Equip Load value, and the total Equip Load of everything the player equips cannot exceed the ceiling.
-- As a run progresses, the player almost always owns more cards than the Equip Load allows, which is precisely why the Inventory exists: every card that cannot fit under the cap is held in the Inventory and sits the round out.
-- Within a round, each equipped card also resolves according to its own cost and cooldown rules, so **not every card the player owns — and not even every card inside the Armory — will necessarily act in a single round.**
+- The Armory has a fixed **Equip Load** capacity. Every card/item has its own Equip Load value, and the total Equip Load of everything the player equips cannot exceed the ceiling — so Equip Load is the direct cap on how many cards/items the player can bring into a round. Anything that cannot fit is held in the Inventory and sits the round out.
+- Within a round, each equipped card also resolves according to its own cost and cooldown rules, so **not every card inside the Armory will necessarily act in a single round.**
 
-The "cards played per round" limit is therefore both *structural* (the Equip Load ceiling) and *tactical* (per-card cost/cooldown), fully visible in the UI. This is the same structural limit seen in *Backpack Battles* (a fixed backpack grid capacity per round) and *Balatro* (a fixed number of hands per round).
+The "cards played per round" limit is therefore both *structural* (the Equip Load ceiling) and *tactical* (per-card cost/cooldown). This is the same structural limit seen in *Backpack Battles* (a fixed backpack grid capacity per round) and *Balatro* (a fixed number of hands per round).
 
 ---
 
@@ -85,13 +76,10 @@ The "cards played per round" limit is therefore both *structural* (the Equip Loa
 
 The separation between **Armory** and **Inventory**, combined with the **Equip Load** limit, guarantees this condition directly — and more importantly, it makes the condition **a meaningful strategic choice rather than a cosmetic cap**.
 
-- **Total deck = Armory + Inventory.** It grows run-long as the player acquires new cards — by mid-to-late run it contains many more cards than the Armory can ever hold at once.
-- **Armory ("hand in play") is strictly bounded** by the Equip Load capacity. It is always a **small subset** of the total deck.
-- **Cards and items are not infinitely stackable** because each one costs Equip Load. The player genuinely cannot "just take everything": adding a heavy item forces them to drop a lighter one, and powerful items usually cost more Load, so the player has to **strategically decide** what to equip and what to leave in the Inventory this round.
-- Everything that does not fit under the Equip Load cap is pushed into the **Inventory**, making the size gap between "what you can play" and "what you own" explicit and visible at all times.
+- **Total deck = Armory + Inventory**, and it grows run-long as the player acquires new cards; by mid-to-late run it contains many more cards than the Armory can ever hold at once.
+- **Armory ("hand in play") is strictly bounded** by the Equip Load capacity — always a small subset of the total deck.
+- **Cards and items are not infinitely stackable** because each one costs Equip Load. Adding a heavy item forces the player to drop a lighter one, and powerful items usually cost more Load, so the player has to **strategically decide** what to equip and what to leave in the Inventory this round.
 - Choosing which cards to promote from the Inventory into the Armory before each battle is the **core deck-building decision** of the game — precisely the tension this criterion is designed to preserve.
-
-This is the same relationship *Backpack Battles* enforces between a player's item stash and the fixed-size backpack grid: you own many more items than you can field, each item takes up real space, and choosing what to field is the game.
 
 ---
 
@@ -100,20 +88,19 @@ This is the same relationship *Backpack Battles* enforces between a player's ite
 The Deck-Building Fest requires cards to be *"the central focus"* of the game. For *Fighting Rogue*:
 
 - **Every combat outcome is determined by the player's deck of cards and items** — there is no separate non-card combat system. Win or lose depends entirely on how the deck was built and arranged.
-- **Progression = deck composition.** There are no standalone skill trees or stat upgrades; all growth comes from acquiring, removing, upgrading, and re-combining cards.
+- **Progression = deck composition.** There are no standalone skill trees or stat upgrades; all growth comes from acquiring, removing, and re-combining cards.
 - **The main UI is a deck UI.** The Armory view, the Inventory view, and the card-reward screen form the spine of the player experience.
-- **Roguelike randomness is expressed through cards** — random rewards, random shop stocks, random event cards, and random synergies between owned cards drive run-to-run variety.
-- **The genre lineage is explicit.** The game is designed and tagged as a Roguelike Deckbuilder / Card Battler, the same category occupied by *Backpack Battles*, which has already participated in the Deckbuilders Fest.
+- **Roguelike randomness is expressed through cards** — random shop stocks, random rewards, and random synergies between owned cards drive run-to-run variety.
 
 ---
 
 ### Closing
 
-Against the five published eligibility criteria, *Fighting Rogue* satisfies every one, following the same inventory-based Roguelike Deckbuilder template already accepted into the Deckbuilders Fest through titles such as *Backpack Battles*. We would be very grateful if the review team could reconsider the game's eligibility for this year's Steam Deck-Building Fest.
+Against the five published eligibility criteria, *Fighting Rogue* satisfies every one. We would be very grateful if the review team could reconsider the game's eligibility for this year's Steam Deck-Building Fest.
 
 We are happy to provide any of the following on request:
 
-- A full gameplay video showing the Armory and Inventory views, Equip Load-limited loadout configuration, per-round shop buy/sell, post-combat card rewards, and card removal.
+- A full gameplay video showing the Armory and Inventory views, Equip Load-limited loadout configuration, and per-round shop buy/sell.
 - A Steam review build / key for reviewers to experience the game directly.
 - An updated store page with Roguelike Deckbuilder / Card Battler tags prioritized and screenshots that prominently feature the Armory and Inventory UI.
 
