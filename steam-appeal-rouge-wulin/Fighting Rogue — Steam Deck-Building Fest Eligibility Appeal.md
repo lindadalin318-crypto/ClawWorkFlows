@@ -18,13 +18,13 @@ At any point during a run, the player's full deck is divided into two clearly se
 
 Cards flow between these two spaces throughout a run: when the Armory's Equip Load is reached, additional items the player owns are placed in the Inventory and sit out of the next battle; between battles, the player can freely rearrange which cards are promoted into the Armory and which are returned to the Inventory.
 
-We believe the preliminary rejection may have stemmed from the expectation that a deckbuilder must present cards as a traditional hand-and-pile UI (as in *Slay the Spire*). The Deck-Building Fest category, however, is much broader — *Backpack Battles*, *Balatro*, *Inscryption*, *Luck be a Landlord*, and others each interpret the "deck" concept in their own way. Our interpretation is an **Armory-driven deck of cards and items**, fully consistent with the Roguelike Deckbuilder genre.
+We believe the preliminary rejection may have stemmed from the expectation that a deckbuilder must present cards as a traditional hand-and-pile UI (as in *Slay the Spire*). The Deck-Building Fest category, however, is much broader — *Backpack Battles*, *The Bazaar*, *Luck be a Landlord*, and others each interpret the "deck" concept in their own way. Our interpretation is an **Armory-driven deck of cards and items**, fully consistent with the Roguelike Deckbuilder genre.
 
 As a direct precedent, we would like to point to this public announcement from the *Backpack Battles* team confirming their participation in the 2024 Steam Deckbuilders Fest:
 
 > https://x.com/TweetFurcifer/status/1772309379842273614
 
-*Backpack Battles* shares its core structure with *Fighting Rogue* — an inventory/Armory of owned cards and items, a bounded active loadout chosen from that pool, and run-long deck mutation through acquisition, removal, and recombination. Since a game built on exactly this template was accepted into the Deckbuilders Fest (and featured in the official *Balatro* × *Backpack Battles* "Can't Put It Down" bundle), we believe *Fighting Rogue*, which follows the same template, should be evaluated under the same standard.
+*Backpack Battles* shares its core structure with *Fighting Rogue* — an inventory/Armory of owned cards and items, a bounded active loadout chosen from that pool, and run-long deck manipulation through acquisition, removal, and recombination. Since a game built on exactly this template was accepted into the Deckbuilders Fest (and featured in the official *Balatro* × *Backpack Battles* "Can't Put It Down" bundle), we believe *Fighting Rogue*, which follows the same template, should be evaluated under the same standard.
 
 We address each of the five eligibility criteria below, using the same terminology Steam uses.
 
@@ -32,7 +32,7 @@ We address each of the five eligibility criteria below, using the same terminolo
 
 ### 1. "The ability to look at your current deck of cards at any point"
 
-*Fighting Rogue* lets the player inspect their **entire deck** — both the **Armory** (equipped, combat-active cards) and the **Inventory** (owned but unequipped cards) — **at any time**, during combat and outside of combat (map, shops, rest sites, events). The two views sit side-by-side in the same UI so the player always sees the full picture of what they own. Each card entry shows its name, rarity, Equip Load, full effect description, and whether it is currently equipped or sitting in the Inventory.
+*Fighting Rogue* lets the player inspect their **entire deck** — both the **Armory** (equipped, combat-active cards) and the **Inventory** (owned but unequipped cards) — **at any time**, during combat and outside of combat. The two views sit side-by-side in the same UI so the player always sees the full picture of what they own. Each card entry shows its name, rarity, Equip Load, full effect description, and whether it is currently equipped or sitting in the Inventory.
 
 This is functionally identical to how *Backpack Battles* lets players inspect both their active backpack and their full item stash at any point during a run.
 
@@ -55,24 +55,16 @@ The criterion — *cards that are not currently being played are held in a visib
 
 ### 3. "The ability to add and remove cards"
 
-Deck mutation is the **core progression system** in *Fighting Rogue*, and — crucially — it happens **every single round**. Between rounds, the player visits an in-game **shop** where they can spend gold to **buy new cards/items** or **sell cards/items they already own** back for gold. This buy/sell loop is available every round, so the player's deck is constantly being reshaped throughout the run. This is the same round-by-round shop cadence used by *Backpack Battles*.
+Deck manipulation is the **core progression system** in *Fighting Rogue*, and it happens **every single round** through a single, unified channel: the in-game **shop**.
 
-There is no stat-based leveling in *Fighting Rogue*; characters grow exclusively by adding, removing, and reshaping the cards and items in their deck.
+Between rounds, the player visits the shop and can freely:
 
-**Ways to ADD cards to the deck:**
-1. **Shop — Buy (every round)** — the primary channel. Each round the shop offers a rotating stock of cards/items the player can purchase with gold.
-2. **Post-combat rewards** — after certain battles, the player chooses a new card/item from a selection of options.
-3. **Elite & boss rewards** — defeating stronger enemies unlocks rarer card pools with more powerful effects.
-4. **Random events** — map events offer narrative choices that can grant special cards.
-5. **Crafting / fusion** — combining existing cards can produce new, higher-tier cards.
+- **ADD cards** — spend gold to buy new cards/items from a rotating stock, which are added directly to the player's deck (Armory or Inventory).
+- **REMOVE cards** — sell any card/item they already own back to the shop for gold, permanently removing it from the deck.
 
-**Ways to REMOVE cards from the deck:**
-1. **Shop — Sell (every round)** — the primary channel. Each round the player can sell owned cards/items back to the shop for gold, permanently removing them from the deck.
-2. **Rest sites — Remove option** permanently deletes one card, available multiple times per run.
-3. **Card upgrades / transformations** — upgrading a card replaces the old version with a stronger one (mechanically = remove + add).
-4. **Event-driven removals** — several map events offer "sacrifice a card" choices that permanently remove a card in exchange for other benefits.
+Because buy and sell are both available **every round**, the player's deck is constantly being reshaped throughout the run. A run starts with a small initial deck and typically ends with a completely different deck shape; two consecutive runs produce two visibly different decks. There is no stat-based leveling in *Fighting Rogue* — characters grow exclusively by adding and removing cards and items in their deck.
 
-Because buying and selling are available every round, deck composition changes continuously throughout a run. A run starts with a small initial deck and typically ends with a completely different deck shape; two consecutive runs produce two visibly different decks. This is the textbook Roguelike Deckbuilder progression loop.
+This is the same round-by-round shop cadence used by *Backpack Battles*, and it is the textbook Roguelike Deckbuilder progression loop.
 
 ---
 
